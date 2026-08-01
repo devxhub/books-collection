@@ -1,0 +1,16 @@
+services:
+  web:
+    build:
+      context: .
+    ports:
+      - "3000:80"
+    restart: unless-stopped
+
+  generate-books:
+    image: node:22-alpine
+    working_dir: /app/website
+    volumes:
+      - ..:/app
+    command: node scripts/generate-books.mjs
+    profiles:
+      - tools

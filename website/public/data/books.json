@@ -1,0 +1,1679 @@
+{
+  "generatedAt": "2026-08-01T10:53:30.891Z",
+  "total": 166,
+  "categories": [
+    "Algorithms",
+    "Apache Kafka",
+    "Databases",
+    "Development Practices",
+    "devops",
+    "Distributed Systems",
+    "Machine Learning",
+    "networking",
+    "Non-Technical",
+    "Operating Systems",
+    "Problem Solving",
+    "programming",
+    "security",
+    "Soft Skills",
+    "Software Architecture",
+    "Software Engineering",
+    "Software Testing",
+    "System Design"
+  ],
+  "books": [
+    {
+      "id": "c9fa4803-f619-4fe1-9fa2-d2ed5ffc73e1",
+      "title": "Algorithms Unlocked (2013, The MIT Press)",
+      "author": "Thomas H. Cormen",
+      "category": "Algorithms",
+      "subcategory": null,
+      "path": "Algorithms/Algorithms Unlocked (2013, The MIT Press) - Thomas H. Cormen.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Algorithms/Algorithms%20Unlocked%20(2013%2C%20The%20MIT%20Press)%20-%20Thomas%20H.%20Cormen.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Algorithms/Algorithms%20Unlocked%20(2013%2C%20The%20MIT%20Press)%20-%20Thomas%20H.%20Cormen.pdf"
+    },
+    {
+      "id": "d18440a8-4d17-492f-bafc-2c3b91b0171e",
+      "title": "Data structures and algorithms made easy in Java   data structure and algorithmic puzzles (2018)",
+      "author": "Narasimha Karumanchi",
+      "category": "Algorithms",
+      "subcategory": null,
+      "path": "Algorithms/Data structures and algorithms made easy in Java _ data structure and algorithmic puzzles (2018) - Narasimha Karumanchi.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Algorithms/Data%20structures%20and%20algorithms%20made%20easy%20in%20Java%20_%20data%20structure%20and%20algorithmic%20puzzles%20(2018)%20-%20Narasimha%20Karumanchi.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Algorithms/Data%20structures%20and%20algorithms%20made%20easy%20in%20Java%20_%20data%20structure%20and%20algorithmic%20puzzles%20(2018)%20-%20Narasimha%20Karumanchi.pdf"
+    },
+    {
+      "id": "75450ad7-ed69-4e5a-907e-0b82a7a3c0c7",
+      "title": "Introduction to algorithms-The MIT Press (2009)",
+      "author": "3rd edition -Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein",
+      "category": "Algorithms",
+      "subcategory": null,
+      "path": "Algorithms/Introduction to algorithms-The MIT Press (2009) - 3rd edition -Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Algorithms/Introduction%20to%20algorithms-The%20MIT%20Press%20(2009)%20-%203rd%20edition%20-Thomas%20H.%20Cormen%2C%20Charles%20E.%20Leiserson%2C%20Ronald%20L.%20Rivest%2C%20Clifford%20Stein.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Algorithms/Introduction%20to%20algorithms-The%20MIT%20Press%20(2009)%20-%203rd%20edition%20-Thomas%20H.%20Cormen%2C%20Charles%20E.%20Leiserson%2C%20Ronald%20L.%20Rivest%2C%20Clifford%20Stein.pdf"
+    },
+    {
+      "id": "a5115143-578f-4a87-87f0-8e8bdab0b6fd",
+      "title": "Kafka in Action-Manning Publications (2022)",
+      "author": "Dylan Scott, Viktor Gamov, Dave Klein",
+      "category": "Apache Kafka",
+      "subcategory": null,
+      "path": "Apache Kafka/Kafka in Action-Manning Publications (2022) - Dylan Scott, Viktor Gamov, Dave Klein.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Apache%20Kafka/Kafka%20in%20Action-Manning%20Publications%20(2022)%20-%20Dylan%20Scott%2C%20Viktor%20Gamov%2C%20Dave%20Klein.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Apache%20Kafka/Kafka%20in%20Action-Manning%20Publications%20(2022)%20-%20Dylan%20Scott%2C%20Viktor%20Gamov%2C%20Dave%20Klein.pdf"
+    },
+    {
+      "id": "e9473a35-d7d0-49bf-a276-b35d72033a06",
+      "title": "kafka-best-practices",
+      "author": "",
+      "category": "Apache Kafka",
+      "subcategory": null,
+      "path": "Apache Kafka/kafka-best-practices.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Apache%20Kafka/kafka-best-practices.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Apache%20Kafka/kafka-best-practices.pdf"
+    },
+    {
+      "id": "0ef88883-8783-4dcb-bd1e-a8dcd4b7ecb0",
+      "title": "Kafka-Optimization-Benchmarking-Guide",
+      "author": "",
+      "category": "Apache Kafka",
+      "subcategory": null,
+      "path": "Apache Kafka/Kafka-Optimization-Benchmarking-Guide.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Apache%20Kafka/Kafka-Optimization-Benchmarking-Guide.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Apache%20Kafka/Kafka-Optimization-Benchmarking-Guide.pdf"
+    },
+    {
+      "id": "dec06655-0a22-4f5b-a36d-db911adc1be7",
+      "title": "Learning Apache Kafka, Second Edition (2015, Packt Publishing - ebooks Account)",
+      "author": "Nishant Garg",
+      "category": "Apache Kafka",
+      "subcategory": null,
+      "path": "Apache Kafka/Learning Apache Kafka, Second Edition (2015, Packt Publishing - ebooks Account) - Nishant Garg .pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Apache%20Kafka/Learning%20Apache%20Kafka%2C%20Second%20Edition%20(2015%2C%20Packt%20Publishing%20-%20ebooks%20Account)%20-%20Nishant%20Garg%20.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Apache%20Kafka/Learning%20Apache%20Kafka%2C%20Second%20Edition%20(2015%2C%20Packt%20Publishing%20-%20ebooks%20Account)%20-%20Nishant%20Garg%20.pdf"
+    },
+    {
+      "id": "25ad8e50-b8e5-40e3-92bb-9780a8069d2d",
+      "title": "Mastering Kafka Streams and ksqlDB",
+      "author": "",
+      "category": "Apache Kafka",
+      "subcategory": null,
+      "path": "Apache Kafka/Mastering_Kafka_Streams_and_ksqlDB.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Apache%20Kafka/Mastering_Kafka_Streams_and_ksqlDB.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Apache%20Kafka/Mastering_Kafka_Streams_and_ksqlDB.pdf"
+    },
+    {
+      "id": "5fd402ff-6a67-4445-82ca-0b03d007d485",
+      "title": "Optimizing Your Apache Kafka Deployment",
+      "author": "",
+      "category": "Apache Kafka",
+      "subcategory": null,
+      "path": "Apache Kafka/Optimizing_Your_Apache_Kafka_Deployment.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Apache%20Kafka/Optimizing_Your_Apache_Kafka_Deployment.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Apache%20Kafka/Optimizing_Your_Apache_Kafka_Deployment.pdf"
+    },
+    {
+      "id": "9f80573e-c830-4485-8744-60b182254482",
+      "title": "Advanced Elasticsearch 7.0  A practical guide to designing, indexing, and querying advanced distributed search engines-Packt Publishing (2019)- Wai Tak Wong",
+      "author": "",
+      "category": "Databases",
+      "subcategory": "elasticsearch",
+      "path": "Databases/elasticsearch/Advanced Elasticsearch 7.0_ A practical guide to designing, indexing, and querying advanced distributed search engines-Packt Publishing (2019)- Wai Tak Wong.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Databases/elasticsearch/Advanced%20Elasticsearch%207.0_%20A%20practical%20guide%20to%20designing%2C%20indexing%2C%20and%20querying%20advanced%20distributed%20search%20engines-Packt%20Publishing%20(2019)-%20Wai%20Tak%20Wong.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Databases/elasticsearch/Advanced%20Elasticsearch%207.0_%20A%20practical%20guide%20to%20designing%2C%20indexing%2C%20and%20querying%20advanced%20distributed%20search%20engines-Packt%20Publishing%20(2019)-%20Wai%20Tak%20Wong.pdf"
+    },
+    {
+      "id": "0f913e80-78cb-4e1e-a74b-2e302f56c159",
+      "title": "Anthony Molinaro, Robert de Graaf - SQL Cookbook  Query Solutions and Techniques for All SQL Users (2021, O'Reilly Media)",
+      "author": "libgen.li",
+      "category": "Databases",
+      "subcategory": "mysql",
+      "path": "Databases/mysql/Anthony Molinaro, Robert de Graaf - SQL Cookbook_ Query Solutions and Techniques for All SQL Users (2021, O'Reilly Media) - libgen.li.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Databases/mysql/Anthony%20Molinaro%2C%20Robert%20de%20Graaf%20-%20SQL%20Cookbook_%20Query%20Solutions%20and%20Techniques%20for%20All%20SQL%20Users%20(2021%2C%20O'Reilly%20Media)%20-%20libgen.li.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Databases/mysql/Anthony%20Molinaro%2C%20Robert%20de%20Graaf%20-%20SQL%20Cookbook_%20Query%20Solutions%20and%20Techniques%20for%20All%20SQL%20Users%20(2021%2C%20O'Reilly%20Media)%20-%20libgen.li.pdf"
+    },
+    {
+      "id": "97bedd48-ebc1-4def-b177-829f51a7c777",
+      "title": "Beginning database design solutions (2009, Wiley Pub)",
+      "author": "Rod Stephens",
+      "category": "Databases",
+      "subcategory": "design",
+      "path": "Databases/design/Beginning database design solutions (2009, Wiley Pub) - Rod Stephens.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Databases/design/Beginning%20database%20design%20solutions%20(2009%2C%20Wiley%20Pub)%20-%20Rod%20Stephens.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Databases/design/Beginning%20database%20design%20solutions%20(2009%2C%20Wiley%20Pub)%20-%20Rod%20Stephens.pdf"
+    },
+    {
+      "id": "495939d3-fc8f-4548-94f3-95aec783c56f",
+      "title": "Beginning database design solutions-Wiley Pub (2009)",
+      "author": "(Wrox beginning guides) Rod Stephens",
+      "category": "Databases",
+      "subcategory": "design",
+      "path": "Databases/design/(Wrox beginning guides) Rod Stephens - Beginning database design solutions-Wiley Pub (2009).pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Databases/design/(Wrox%20beginning%20guides)%20Rod%20Stephens%20-%20Beginning%20database%20design%20solutions-Wiley%20Pub%20(2009).pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Databases/design/(Wrox%20beginning%20guides)%20Rod%20Stephens%20-%20Beginning%20database%20design%20solutions-Wiley%20Pub%20(2009).pdf"
+    },
+    {
+      "id": "4e7f9df1-0491-412e-a4cf-d30163622dd7",
+      "title": "caching-at-scale-with-redis-updated-2021-12-04",
+      "author": "",
+      "category": "Databases",
+      "subcategory": "redis",
+      "path": "Databases/redis/caching-at-scale-with-redis-updated-2021-12-04.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Databases/redis/caching-at-scale-with-redis-updated-2021-12-04.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Databases/redis/caching-at-scale-with-redis-updated-2021-12-04.pdf"
+    },
+    {
+      "id": "7aa33114-295a-4c74-af5d-edbfb9c51f26",
+      "title": "Cassandra The Defifinitive Guide",
+      "author": "Jeff Carpenter & Eben Hewitt",
+      "category": "Databases",
+      "subcategory": "cassandra",
+      "path": "Databases/cassandra/Cassandra The Defifinitive Guide - Jeff Carpenter & Eben Hewitt.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Databases/cassandra/Cassandra%20The%20Defifinitive%20Guide%20-%20Jeff%20Carpenter%20%26%20Eben%20Hewitt.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Databases/cassandra/Cassandra%20The%20Defifinitive%20Guide%20-%20Jeff%20Carpenter%20%26%20Eben%20Hewitt.pdf"
+    },
+    {
+      "id": "56f4429f-204c-4f6d-8c90-201126fe380f",
+      "title": "Data Modeling with Snowflake  A practical guide to accelerating Snowflake development using universal data modeling techniques-Packt Publishing",
+      "author": "Serge Gershkovich",
+      "category": "Databases",
+      "subcategory": "design",
+      "path": "Databases/design/Serge Gershkovich - Data Modeling with Snowflake_ A practical guide to accelerating Snowflake development using universal data modeling techniques-Packt Publishing.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Databases/design/Serge%20Gershkovich%20-%20Data%20Modeling%20with%20Snowflake_%20A%20practical%20guide%20to%20accelerating%20Snowflake%20development%20using%20universal%20data%20modeling%20techniques-Packt%20Publishing.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Databases/design/Serge%20Gershkovich%20-%20Data%20Modeling%20with%20Snowflake_%20A%20practical%20guide%20to%20accelerating%20Snowflake%20development%20using%20universal%20data%20modeling%20techniques-Packt%20Publishing.pdf"
+    },
+    {
+      "id": "b9c9379b-e90b-4a1d-99da-0c2fb542c008",
+      "title": "Database Design for Mere Mortals  A Hands-On Guide to Relational Database Design (2013, Addison-Wesley Professional)",
+      "author": "Michael J. Hernandez",
+      "category": "Databases",
+      "subcategory": "mysql",
+      "path": "Databases/mysql/Michael J. Hernandez - Database Design for Mere Mortals_ A Hands-On Guide to Relational Database Design (2013, Addison-Wesley Professional).pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Databases/mysql/Michael%20J.%20Hernandez%20-%20Database%20Design%20for%20Mere%20Mortals_%20A%20Hands-On%20Guide%20to%20Relational%20Database%20Design%20(2013%2C%20Addison-Wesley%20Professional).pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Databases/mysql/Michael%20J.%20Hernandez%20-%20Database%20Design%20for%20Mere%20Mortals_%20A%20Hands-On%20Guide%20to%20Relational%20Database%20Design%20(2013%2C%20Addison-Wesley%20Professional).pdf"
+    },
+    {
+      "id": "30dcec39-9c08-44d0-b203-83564e76c1a4",
+      "title": "Database design for mere mortals  a hands-on guide to relational database design, 2nd Edition  -Addison-Wesley Professional (2003)",
+      "author": "Michael James Hernandez",
+      "category": "Databases",
+      "subcategory": "design",
+      "path": "Databases/design/Michael James Hernandez - Database design for mere mortals_ a hands-on guide to relational database design, 2nd Edition  -Addison-Wesley Professional (2003).pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Databases/design/Michael%20James%20Hernandez%20-%20Database%20design%20for%20mere%20mortals_%20a%20hands-on%20guide%20to%20relational%20database%20design%2C%202nd%20Edition%20%20-Addison-Wesley%20Professional%20(2003).pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Databases/design/Michael%20James%20Hernandez%20-%20Database%20design%20for%20mere%20mortals_%20a%20hands-on%20guide%20to%20relational%20database%20design%2C%202nd%20Edition%20%20-Addison-Wesley%20Professional%20(2003).pdf"
+    },
+    {
+      "id": "8c66d285-dc9a-4d47-8ee0-68e27edd07f8",
+      "title": "Database Internals  A Deep Dive into How Distributed Data Systems Work-O'Reilly Media (2019)",
+      "author": "Alex Petrov",
+      "category": "Databases",
+      "subcategory": null,
+      "path": "Databases/Alex Petrov - Database Internals_ A Deep Dive into How Distributed Data Systems Work-O'Reilly Media (2019).pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Databases/Alex%20Petrov%20-%20Database%20Internals_%20A%20Deep%20Dive%20into%20How%20Distributed%20Data%20Systems%20Work-O'Reilly%20Media%20(2019).pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Databases/Alex%20Petrov%20-%20Database%20Internals_%20A%20Deep%20Dive%20into%20How%20Distributed%20Data%20Systems%20Work-O'Reilly%20Media%20(2019).pdf"
+    },
+    {
+      "id": "8034a6af-2c67-4a7b-a906-2cde85668e74",
+      "title": "Designing Data Intensive Applications",
+      "author": "Martin Kleppmann",
+      "category": "Databases",
+      "subcategory": "design",
+      "path": "Databases/design/Designing Data Intensive Applications - Martin Kleppmann.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Databases/design/Designing%20Data%20Intensive%20Applications%20-%20Martin%20Kleppmann.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Databases/design/Designing%20Data%20Intensive%20Applications%20-%20Martin%20Kleppmann.pdf"
+    },
+    {
+      "id": "8429cf3e-11cb-4f95-bcb2-76402ef8ba8d",
+      "title": "Effective Indexing in Postgres",
+      "author": "",
+      "category": "Databases",
+      "subcategory": "postgresql",
+      "path": "Databases/postgresql/Effective_Indexing_in_Postgres.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Databases/postgresql/Effective_Indexing_in_Postgres.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Databases/postgresql/Effective_Indexing_in_Postgres.pdf"
+    },
+    {
+      "id": "5077083e-d774-4163-b621-e6b4ae45f8e4",
+      "title": "Effective MySQL Optimizing SQL Statements (2011)",
+      "author": "Ronald Bradford",
+      "category": "Databases",
+      "subcategory": "mysql",
+      "path": "Databases/mysql/Ronald Bradford - Effective MySQL Optimizing SQL Statements (2011).pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Databases/mysql/Ronald%20Bradford%20-%20Effective%20MySQL%20Optimizing%20SQL%20Statements%20(2011).pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Databases/mysql/Ronald%20Bradford%20-%20Effective%20MySQL%20Optimizing%20SQL%20Statements%20(2011).pdf"
+    },
+    {
+      "id": "f977feb5-1d19-488e-a493-7d929d00c367",
+      "title": "Elasticsearch  The Definitive Guide-O'Reilly Media (2015)",
+      "author": "Clinton Gormley, Zachary Tong",
+      "category": "Databases",
+      "subcategory": "elasticsearch",
+      "path": "Databases/elasticsearch/Elasticsearch_ The Definitive Guide-O'Reilly Media (2015) - Clinton Gormley, Zachary Tong.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Databases/elasticsearch/Elasticsearch_%20The%20Definitive%20Guide-O'Reilly%20Media%20(2015)%20-%20Clinton%20Gormley%2C%20Zachary%20Tong.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Databases/elasticsearch/Elasticsearch_%20The%20Definitive%20Guide-O'Reilly%20Media%20(2015)%20-%20Clinton%20Gormley%2C%20Zachary%20Tong.pdf"
+    },
+    {
+      "id": "c0c6cdbf-2f31-40fe-887a-4b3e3736dce2",
+      "title": "Elasticsearch Blueprints  A practical project-based guide to generating compelling search solutions using the dynamic and powerful features of Elasticsearch-Packt Publishing (2015)",
+      "author": "Vineeth Mohan",
+      "category": "Databases",
+      "subcategory": "elasticsearch",
+      "path": "Databases/elasticsearch/Elasticsearch Blueprints_ A practical project-based guide to generating compelling search solutions using the dynamic and powerful features of Elasticsearch-Packt Publishing (2015) - Vineeth Mohan.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Databases/elasticsearch/Elasticsearch%20Blueprints_%20A%20practical%20project-based%20guide%20to%20generating%20compelling%20search%20solutions%20using%20the%20dynamic%20and%20powerful%20features%20of%20Elasticsearch-Packt%20Publishing%20(2015)%20-%20Vineeth%20Mohan.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Databases/elasticsearch/Elasticsearch%20Blueprints_%20A%20practical%20project-based%20guide%20to%20generating%20compelling%20search%20solutions%20using%20the%20dynamic%20and%20powerful%20features%20of%20Elasticsearch-Packt%20Publishing%20(2015)%20-%20Vineeth%20Mohan.pdf"
+    },
+    {
+      "id": "41924516-167a-48e9-8546-8e547a667c9f",
+      "title": "Elasticsearch Indexing  Improve search experiences with ElasticSearch’s powerful indexing functionality – learn how with this practical ElasticSearch tutorial, packed with tips",
+      "author": "Huseyin Akdogan",
+      "category": "Databases",
+      "subcategory": "elasticsearch",
+      "path": "Databases/elasticsearch/Elasticsearch Indexing_ Improve search experiences with ElasticSearch’s powerful indexing functionality – learn how with this practical ElasticSearch tutorial, packed with tips - Huseyin Akdogan.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Databases/elasticsearch/Elasticsearch%20Indexing_%20Improve%20search%20experiences%20with%20ElasticSearch%E2%80%99s%20powerful%20indexing%20functionality%20%E2%80%93%20learn%20how%20with%20this%20practical%20ElasticSearch%20tutorial%2C%20packed%20with%20tips%20-%20Huseyin%20Akdogan.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Databases/elasticsearch/Elasticsearch%20Indexing_%20Improve%20search%20experiences%20with%20ElasticSearch%E2%80%99s%20powerful%20indexing%20functionality%20%E2%80%93%20learn%20how%20with%20this%20practical%20ElasticSearch%20tutorial%2C%20packed%20with%20tips%20-%20Huseyin%20Akdogan.pdf"
+    },
+    {
+      "id": "897c50dd-c864-4039-a80f-1e05d5fd0f27",
+      "title": "High Availability MySQL Cookbook",
+      "author": "",
+      "category": "Databases",
+      "subcategory": "mysql",
+      "path": "Databases/mysql/High Availability MySQL Cookbook.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Databases/mysql/High%20Availability%20MySQL%20Cookbook.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Databases/mysql/High%20Availability%20MySQL%20Cookbook.pdf"
+    },
+    {
+      "id": "2450a789-d18a-441b-bf7c-9ee8209e2788",
+      "title": "High Performance MySQL  Proven Strategies for Operating at Scale (2021, O'Reilly Media)",
+      "author": "Silvia Botros, Jeremy Tinley",
+      "category": "Databases",
+      "subcategory": "mysql",
+      "path": "Databases/mysql/Silvia Botros, Jeremy Tinley - High Performance MySQL_ Proven Strategies for Operating at Scale (2021, O'Reilly Media).pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Databases/mysql/Silvia%20Botros%2C%20Jeremy%20Tinley%20-%20High%20Performance%20MySQL_%20Proven%20Strategies%20for%20Operating%20at%20Scale%20(2021%2C%20O'Reilly%20Media).pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Databases/mysql/Silvia%20Botros%2C%20Jeremy%20Tinley%20-%20High%20Performance%20MySQL_%20Proven%20Strategies%20for%20Operating%20at%20Scale%20(2021%2C%20O'Reilly%20Media).pdf"
+    },
+    {
+      "id": "c78e8624-b356-4b97-838c-3c362546f288",
+      "title": "High Performance MySQL  Proven Strategies for Running MySQL at Scale (2022, O'Reilly Media)",
+      "author": "Silvia Botros, Jeremy Tinley",
+      "category": "Databases",
+      "subcategory": "mysql",
+      "path": "Databases/mysql/Silvia Botros, Jeremy Tinley - High Performance MySQL_ Proven Strategies for Running MySQL at Scale (2022, O'Reilly Media).pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Databases/mysql/Silvia%20Botros%2C%20Jeremy%20Tinley%20-%20High%20Performance%20MySQL_%20Proven%20Strategies%20for%20Running%20MySQL%20at%20Scale%20(2022%2C%20O'Reilly%20Media).pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Databases/mysql/Silvia%20Botros%2C%20Jeremy%20Tinley%20-%20High%20Performance%20MySQL_%20Proven%20Strategies%20for%20Running%20MySQL%20at%20Scale%20(2022%2C%20O'Reilly%20Media).pdf"
+    },
+    {
+      "id": "281d485e-9d7c-48b0-b9af-4a893f9ed02f",
+      "title": "MongoDB Applied Design Patterns  Practical Use Cases with the Leading NoSQL Database (2013, O'Reilly Media)",
+      "author": "Rick Copeland",
+      "category": "Databases",
+      "subcategory": "mongo",
+      "path": "Databases/mongo/Rick Copeland - MongoDB Applied Design Patterns_ Practical Use Cases with the Leading NoSQL Database (2013, O'Reilly Media).pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Databases/mongo/Rick%20Copeland%20-%20MongoDB%20Applied%20Design%20Patterns_%20Practical%20Use%20Cases%20with%20the%20Leading%20NoSQL%20Database%20(2013%2C%20O'Reilly%20Media).pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Databases/mongo/Rick%20Copeland%20-%20MongoDB%20Applied%20Design%20Patterns_%20Practical%20Use%20Cases%20with%20the%20Leading%20NoSQL%20Database%20(2013%2C%20O'Reilly%20Media).pdf"
+    },
+    {
+      "id": "01b26d58-14ea-4d7b-81d7-cf923e6d2bf6",
+      "title": "MySQL Cookbook, 3rd Edition",
+      "author": "",
+      "category": "Databases",
+      "subcategory": "mysql",
+      "path": "Databases/mysql/MySQL Cookbook, 3rd Edition.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Databases/mysql/MySQL%20Cookbook%2C%203rd%20Edition.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Databases/mysql/MySQL%20Cookbook%2C%203rd%20Edition.pdf"
+    },
+    {
+      "id": "8b37a291-c69d-4b94-8e7d-164f7f95c7fc",
+      "title": "pganalyze Best-Practices-for-Optimizing-Postgres-Query-Performance",
+      "author": "",
+      "category": "Databases",
+      "subcategory": "postgresql",
+      "path": "Databases/postgresql/pganalyze_Best-Practices-for-Optimizing-Postgres-Query-Performance.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Databases/postgresql/pganalyze_Best-Practices-for-Optimizing-Postgres-Query-Performance.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Databases/postgresql/pganalyze_Best-Practices-for-Optimizing-Postgres-Query-Performance.pdf"
+    },
+    {
+      "id": "ffe7d493-09a9-4f6d-af08-c904654e951c",
+      "title": "Redis Essentials  Harness the power of Redis to integrate and manage your projects efficiently-Packt Publishing (2015)",
+      "author": "Maxwell Dayvson Da Silva, Hugo Lopes Tavares",
+      "category": "Databases",
+      "subcategory": "redis",
+      "path": "Databases/redis/Redis Essentials_ Harness the power of Redis to integrate and manage your projects efficiently-Packt Publishing (2015) - Maxwell Dayvson Da Silva, Hugo Lopes Tavares.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Databases/redis/Redis%20Essentials_%20Harness%20the%20power%20of%20Redis%20to%20integrate%20and%20manage%20your%20projects%20efficiently-Packt%20Publishing%20(2015)%20-%20Maxwell%20Dayvson%20Da%20Silva%2C%20Hugo%20Lopes%20Tavares.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Databases/redis/Redis%20Essentials_%20Harness%20the%20power%20of%20Redis%20to%20integrate%20and%20manage%20your%20projects%20efficiently-Packt%20Publishing%20(2015)%20-%20Maxwell%20Dayvson%20Da%20Silva%2C%20Hugo%20Lopes%20Tavares.pdf"
+    },
+    {
+      "id": "58336b0d-7d33-49e1-8f2a-a1d490384c88",
+      "title": "Rod Stephens - Beginning Database Design Solutions  Understanding and Implementing Database Design Concepts for the Cloud and Beyond (2023, Wiley)",
+      "author": "libgen.li",
+      "category": "Databases",
+      "subcategory": "design",
+      "path": "Databases/design/Rod Stephens - Beginning Database Design Solutions_ Understanding and Implementing Database Design Concepts for the Cloud and Beyond (2023, Wiley) - libgen.li.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Databases/design/Rod%20Stephens%20-%20Beginning%20Database%20Design%20Solutions_%20Understanding%20and%20Implementing%20Database%20Design%20Concepts%20for%20the%20Cloud%20and%20Beyond%20(2023%2C%20Wiley)%20-%20libgen.li.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Databases/design/Rod%20Stephens%20-%20Beginning%20Database%20Design%20Solutions_%20Understanding%20and%20Implementing%20Database%20Design%20Concepts%20for%20the%20Cloud%20and%20Beyond%20(2023%2C%20Wiley)%20-%20libgen.li.pdf"
+    },
+    {
+      "id": "af9da96f-bdeb-4212-b847-5be4cd1ae7bb",
+      "title": "Understanding MySQL Internals",
+      "author": "",
+      "category": "Databases",
+      "subcategory": "mysql",
+      "path": "Databases/mysql/Understanding MySQL Internals.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Databases/mysql/Understanding%20MySQL%20Internals.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Databases/mysql/Understanding%20MySQL%20Internals.pdf"
+    },
+    {
+      "id": "5b0b470a-1cec-4873-b90e-8b664057d4ef",
+      "title": "Understanding MySQL Internals (2009)",
+      "author": "Sasha Pachev",
+      "category": "Databases",
+      "subcategory": "mysql",
+      "path": "Databases/mysql/Understanding MySQL Internals (2009) - Sasha Pachev.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Databases/mysql/Understanding%20MySQL%20Internals%20(2009)%20-%20Sasha%20Pachev.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Databases/mysql/Understanding%20MySQL%20Internals%20(2009)%20-%20Sasha%20Pachev.pdf"
+    },
+    {
+      "id": "75f1d655-3284-4a26-9879-4da61668b821",
+      "title": "Vallarapu Naga Avinash Kumar - PostgreSQL 13 Cookbook  Over 120 recipes to build high-performance and fault-tolerant PostgreSQL database solutions (2021, Packt Publishing)",
+      "author": "libgen.li",
+      "category": "Databases",
+      "subcategory": "postgresql",
+      "path": "Databases/postgresql/Vallarapu Naga Avinash Kumar - PostgreSQL 13 Cookbook_ Over 120 recipes to build high-performance and fault-tolerant PostgreSQL database solutions (2021, Packt Publishing) - libgen.li.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Databases/postgresql/Vallarapu%20Naga%20Avinash%20Kumar%20-%20PostgreSQL%2013%20Cookbook_%20Over%20120%20recipes%20to%20build%20high-performance%20and%20fault-tolerant%20PostgreSQL%20database%20solutions%20(2021%2C%20Packt%20Publishing)%20-%20libgen.li.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Databases/postgresql/Vallarapu%20Naga%20Avinash%20Kumar%20-%20PostgreSQL%2013%20Cookbook_%20Over%20120%20recipes%20to%20build%20high-performance%20and%20fault-tolerant%20PostgreSQL%20database%20solutions%20(2021%2C%20Packt%20Publishing)%20-%20libgen.li.pdf"
+    },
+    {
+      "id": "670f0030-46df-44d6-9c7f-0830c8749b9e",
+      "title": "Modern Software Engineering  Doing What Works to Build Better Software Faster (2021, Addison-Wesley Professional)",
+      "author": "David Farley",
+      "category": "Development Practices",
+      "subcategory": null,
+      "path": "Development Practices/Modern Software Engineering_ Doing What Works to Build Better Software Faster (2021, Addison-Wesley Professional) - David Farley.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Development%20Practices/Modern%20Software%20Engineering_%20Doing%20What%20Works%20to%20Build%20Better%20Software%20Faster%20(2021%2C%20Addison-Wesley%20Professional)%20-%20David%20Farley.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Development%20Practices/Modern%20Software%20Engineering_%20Doing%20What%20Works%20to%20Build%20Better%20Software%20Faster%20(2021%2C%20Addison-Wesley%20Professional)%20-%20David%20Farley.pdf"
+    },
+    {
+      "id": "d39d4727-f842-4dd9-98d8-309b76228095",
+      "title": "Regular Expressions Cookbook (2012, O'Reilly Media)",
+      "author": "Jan Goyvaerts, Steven Levithan",
+      "category": "Development Practices",
+      "subcategory": null,
+      "path": "Development Practices/Jan Goyvaerts, Steven Levithan - Regular Expressions Cookbook (2012, O'Reilly Media).pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Development%20Practices/Jan%20Goyvaerts%2C%20Steven%20Levithan%20-%20Regular%20Expressions%20Cookbook%20(2012%2C%20O'Reilly%20Media).pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Development%20Practices/Jan%20Goyvaerts%2C%20Steven%20Levithan%20-%20Regular%20Expressions%20Cookbook%20(2012%2C%20O'Reilly%20Media).pdf"
+    },
+    {
+      "id": "9de750f1-a4f6-4f3f-8a98-9452e1f8d2fd",
+      "title": "Software Engineering at Google  Lessons Learned from Programming Over Time (2020, O'Reilly Media)",
+      "author": "Titus Winters, Tom Manshreck, Hyrum Wright",
+      "category": "Development Practices",
+      "subcategory": null,
+      "path": "Development Practices/_Software Engineering at Google_ Lessons Learned from Programming Over Time (2020, O'Reilly Media) - Titus Winters, Tom Manshreck, Hyrum Wright.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Development%20Practices/_Software%20Engineering%20at%20Google_%20Lessons%20Learned%20from%20Programming%20Over%20Time%20(2020%2C%20O'Reilly%20Media)%20-%20Titus%20Winters%2C%20Tom%20Manshreck%2C%20Hyrum%20Wright.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Development%20Practices/_Software%20Engineering%20at%20Google_%20Lessons%20Learned%20from%20Programming%20Over%20Time%20(2020%2C%20O'Reilly%20Media)%20-%20Titus%20Winters%2C%20Tom%20Manshreck%2C%20Hyrum%20Wright.pdf"
+    },
+    {
+      "id": "ee5379a4-2e2c-43b8-89a9-7109e414cf28",
+      "title": "A Developer's Essential Guide to Docker Compose  Simplify the development and orchestration of multi-container applications (2022, Packt Publishing) -Emmanouil Gkatziouras",
+      "author": "",
+      "category": "devops",
+      "subcategory": "container",
+      "path": "devops/container/A Developer's Essential Guide to Docker Compose_ Simplify the development and orchestration of multi-container applications (2022, Packt Publishing) -Emmanouil Gkatziouras.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/devops/container/A%20Developer's%20Essential%20Guide%20to%20Docker%20Compose_%20Simplify%20the%20development%20and%20orchestration%20of%20multi-container%20applications%20(2022%2C%20Packt%20Publishing)%20-Emmanouil%20Gkatziouras.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/devops/container/A%20Developer's%20Essential%20Guide%20to%20Docker%20Compose_%20Simplify%20the%20development%20and%20orchestration%20of%20multi-container%20applications%20(2022%2C%20Packt%20Publishing)%20-Emmanouil%20Gkatziouras.pdf"
+    },
+    {
+      "id": "32620d15-1df5-48d0-9046-06ec6a6262e6",
+      "title": "Automating DevOps with GitLab CI CD Pipelines  Build efficient CI CD pipelines to verify, secure, and deploy your code using real-life examples",
+      "author": "Christopher Cowell, Nicholas Lotz, Chris Timberlake",
+      "category": "devops",
+      "subcategory": "cicd",
+      "path": "devops/cicd/Automating DevOps with GitLab CI_CD Pipelines_ Build efficient CI_CD pipelines to verify, secure, and deploy your code using real-life examples - Christopher Cowell, Nicholas Lotz, Chris Timberlake.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/devops/cicd/Automating%20DevOps%20with%20GitLab%20CI_CD%20Pipelines_%20Build%20efficient%20CI_CD%20pipelines%20to%20verify%2C%20secure%2C%20and%20deploy%20your%20code%20using%20real-life%20examples%20-%20Christopher%20Cowell%2C%20Nicholas%20Lotz%2C%20Chris%20Timberlake.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/devops/cicd/Automating%20DevOps%20with%20GitLab%20CI_CD%20Pipelines_%20Build%20efficient%20CI_CD%20pipelines%20to%20verify%2C%20secure%2C%20and%20deploy%20your%20code%20using%20real-life%20examples%20-%20Christopher%20Cowell%2C%20Nicholas%20Lotz%2C%20Chris%20Timberlake.pdf"
+    },
+    {
+      "id": "04b098c0-d774-4b83-b34a-b8bd7b2ab7e4",
+      "title": "Continuous Delivery with Docker and Jenkins  Delivering software at scale-Packt Publishing (2017)",
+      "author": "Rafal Leszko",
+      "category": "devops",
+      "subcategory": "cicd",
+      "path": "devops/cicd/Continuous Delivery with Docker and Jenkins_ Delivering software at scale-Packt Publishing (2017) - Rafal Leszko.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/devops/cicd/Continuous%20Delivery%20with%20Docker%20and%20Jenkins_%20Delivering%20software%20at%20scale-Packt%20Publishing%20(2017)%20-%20Rafal%20Leszko.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/devops/cicd/Continuous%20Delivery%20with%20Docker%20and%20Jenkins_%20Delivering%20software%20at%20scale-Packt%20Publishing%20(2017)%20-%20Rafal%20Leszko.pdf"
+    },
+    {
+      "id": "7ab2fc07-9481-4385-bcee-388d41bca656",
+      "title": "Jeff Nickoloff, Stephen Kuenzli - Docker in Action (2019, Manning Publications)",
+      "author": "libgen.li",
+      "category": "devops",
+      "subcategory": "container",
+      "path": "devops/container/Jeff Nickoloff, Stephen Kuenzli - Docker in Action (2019, Manning Publications) - libgen.li.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/devops/container/Jeff%20Nickoloff%2C%20Stephen%20Kuenzli%20-%20Docker%20in%20Action%20(2019%2C%20Manning%20Publications)%20-%20libgen.li.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/devops/container/Jeff%20Nickoloff%2C%20Stephen%20Kuenzli%20-%20Docker%20in%20Action%20(2019%2C%20Manning%20Publications)%20-%20libgen.li.pdf"
+    },
+    {
+      "id": "f65192b7-e8c6-4539-b38d-68df9df4e047",
+      "title": "Kubernetes Patterns  Reusable Elements for Designing Cloud Native Applications-O'Reilly Media (2023)",
+      "author": "Bilgin Ibryam, Roland Huss",
+      "category": "devops",
+      "subcategory": "k8s",
+      "path": "devops/k8s/Bilgin Ibryam, Roland Huss - Kubernetes Patterns_ Reusable Elements for Designing Cloud Native Applications-O'Reilly Media (2023).pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/devops/k8s/Bilgin%20Ibryam%2C%20Roland%20Huss%20-%20Kubernetes%20Patterns_%20Reusable%20Elements%20for%20Designing%20Cloud%20Native%20Applications-O'Reilly%20Media%20(2023).pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/devops/k8s/Bilgin%20Ibryam%2C%20Roland%20Huss%20-%20Kubernetes%20Patterns_%20Reusable%20Elements%20for%20Designing%20Cloud%20Native%20Applications-O'Reilly%20Media%20(2023).pdf"
+    },
+    {
+      "id": "93ef7dcb-ea14-4473-8b89-febb84c8af34",
+      "title": "Learning GitHub Actions  Automation and Integration of CI CD with GitHub-O'Reilly Media (2023)",
+      "author": "Brent Laster",
+      "category": "devops",
+      "subcategory": "cicd",
+      "path": "devops/cicd/Learning GitHub Actions_ Automation and Integration of CI_CD with GitHub-O'Reilly Media (2023) - Brent Laster.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/devops/cicd/Learning%20GitHub%20Actions_%20Automation%20and%20Integration%20of%20CI_CD%20with%20GitHub-O'Reilly%20Media%20(2023)%20-%20Brent%20Laster.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/devops/cicd/Learning%20GitHub%20Actions_%20Automation%20and%20Integration%20of%20CI_CD%20with%20GitHub-O'Reilly%20Media%20(2023)%20-%20Brent%20Laster.pdf"
+    },
+    {
+      "id": "c6735843-2b92-44a9-9118-ea84ae723055",
+      "title": "Miell, Ian Sayers, Aiden Hobson - Docker in Action (2019, Manning Publications)",
+      "author": "libgen.li",
+      "category": "devops",
+      "subcategory": "container",
+      "path": "devops/container/Miell, Ian_Sayers, Aiden Hobson - Docker in Action (2019, Manning Publications) - libgen.li.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/devops/container/Miell%2C%20Ian_Sayers%2C%20Aiden%20Hobson%20-%20Docker%20in%20Action%20(2019%2C%20Manning%20Publications)%20-%20libgen.li.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/devops/container/Miell%2C%20Ian_Sayers%2C%20Aiden%20Hobson%20-%20Docker%20in%20Action%20(2019%2C%20Manning%20Publications)%20-%20libgen.li.pdf"
+    },
+    {
+      "id": "fefc9657-78bc-4cfd-ae62-8ecaf009be03",
+      "title": "O'Reilly Media, Inc. (2022)",
+      "author": "Cloud Native DevOps with Kubernetes, 2nd Edition- Justin Domingus  John Arundel",
+      "category": "devops",
+      "subcategory": "k8s",
+      "path": "devops/k8s/Cloud Native DevOps with Kubernetes, 2nd Edition- Justin Domingus_ John Arundel - O'Reilly Media, Inc. (2022).pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/devops/k8s/Cloud%20Native%20DevOps%20with%20Kubernetes%2C%202nd%20Edition-%20Justin%20Domingus_%20John%20Arundel%20-%20O'Reilly%20Media%2C%20Inc.%20(2022).pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/devops/k8s/Cloud%20Native%20DevOps%20with%20Kubernetes%2C%202nd%20Edition-%20Justin%20Domingus_%20John%20Arundel%20-%20O'Reilly%20Media%2C%20Inc.%20(2022).pdf"
+    },
+    {
+      "id": "7e2cae3b-556d-460b-9bb2-961d10962b2c",
+      "title": "Pipeline as Code  Continuous Delivery with Jenkins, Kubernetes, and Terraform-Manning (2021)",
+      "author": "Mohamed Labouardy",
+      "category": "devops",
+      "subcategory": "cicd",
+      "path": "devops/cicd/Pipeline as Code_ Continuous Delivery with Jenkins, Kubernetes, and Terraform-Manning (2021) - Mohamed Labouardy.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/devops/cicd/Pipeline%20as%20Code_%20Continuous%20Delivery%20with%20Jenkins%2C%20Kubernetes%2C%20and%20Terraform-Manning%20(2021)%20-%20Mohamed%20Labouardy.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/devops/cicd/Pipeline%20as%20Code_%20Continuous%20Delivery%20with%20Jenkins%2C%20Kubernetes%2C%20and%20Terraform-Manning%20(2021)%20-%20Mohamed%20Labouardy.pdf"
+    },
+    {
+      "id": "bd2ec06c-6da1-47cf-92d4-d3496dde5d44",
+      "title": "The DevOps Handbook  How to Create World-Class Agility, Reliability, & Security in Technology Organizations-Gene Kim, Jez Humble, Patrick Debois, John Willis, Nicole Forsgren",
+      "author": "",
+      "category": "devops",
+      "subcategory": null,
+      "path": "devops/The DevOps Handbook_ How to Create World-Class Agility, Reliability, & Security in Technology Organizations-Gene Kim, Jez Humble, Patrick Debois, John Willis, Nicole Forsgren.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/devops/The%20DevOps%20Handbook_%20How%20to%20Create%20World-Class%20Agility%2C%20Reliability%2C%20%26%20Security%20in%20Technology%20Organizations-Gene%20Kim%2C%20Jez%20Humble%2C%20Patrick%20Debois%2C%20John%20Willis%2C%20Nicole%20Forsgren.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/devops/The%20DevOps%20Handbook_%20How%20to%20Create%20World-Class%20Agility%2C%20Reliability%2C%20%26%20Security%20in%20Technology%20Organizations-Gene%20Kim%2C%20Jez%20Humble%2C%20Patrick%20Debois%2C%20John%20Willis%2C%20Nicole%20Forsgren.pdf"
+    },
+    {
+      "id": "a8b15268-93b0-4101-9684-eb8849f3e743",
+      "title": "Architecting Distributed Transactional Applications",
+      "author": "Guy Harrison, Andrew Marshall & Charles Custer",
+      "category": "Distributed Systems",
+      "subcategory": null,
+      "path": "Distributed Systems/Architecting Distributed Transactional Applications - Guy Harrison, Andrew Marshall & Charles Custer.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Distributed%20Systems/Architecting%20Distributed%20Transactional%20Applications%20-%20Guy%20Harrison%2C%20Andrew%20Marshall%20%26%20Charles%20Custer.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Distributed%20Systems/Architecting%20Distributed%20Transactional%20Applications%20-%20Guy%20Harrison%2C%20Andrew%20Marshall%20%26%20Charles%20Custer.pdf"
+    },
+    {
+      "id": "00376383-b381-4b06-a227-3d05d4f8bc5e",
+      "title": "Designing Data Intensive Applications",
+      "author": "",
+      "category": "Distributed Systems",
+      "subcategory": null,
+      "path": "Distributed Systems/_Designing Data Intensive Applications.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Distributed%20Systems/_Designing%20Data%20Intensive%20Applications.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Distributed%20Systems/_Designing%20Data%20Intensive%20Applications.pdf"
+    },
+    {
+      "id": "55ecda9f-fec4-40e5-b897-3c581994f1ac",
+      "title": "developing-open-cloud-native-microservice",
+      "author": "",
+      "category": "Distributed Systems",
+      "subcategory": "Microservices",
+      "path": "Distributed Systems/Microservices/developing-open-cloud-native-microservice.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Distributed%20Systems/Microservices/developing-open-cloud-native-microservice.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Distributed%20Systems/Microservices/developing-open-cloud-native-microservice.pdf"
+    },
+    {
+      "id": "ff69e82a-d4a3-4221-b303-2b4245a1b0bf",
+      "title": "Understanding Distributed Systems  What every developer should know about large distributed applications (2021, Roberto Vitillo)",
+      "author": "Roberto Vitillo",
+      "category": "Distributed Systems",
+      "subcategory": null,
+      "path": "Distributed Systems/Understanding Distributed Systems_ What every developer should know about large distributed applications (2021, Roberto Vitillo) - Roberto Vitillo.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Distributed%20Systems/Understanding%20Distributed%20Systems_%20What%20every%20developer%20should%20know%20about%20large%20distributed%20applications%20(2021%2C%20Roberto%20Vitillo)%20-%20Roberto%20Vitillo.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Distributed%20Systems/Understanding%20Distributed%20Systems_%20What%20every%20developer%20should%20know%20about%20large%20distributed%20applications%20(2021%2C%20Roberto%20Vitillo)%20-%20Roberto%20Vitillo.pdf"
+    },
+    {
+      "id": "7013aa32-b95f-46b2-8c1f-8270d4a23735",
+      "title": "Machine Learning Design Interview  Machine Learning System Design Interview-Independently published (2022)",
+      "author": "Khang Pham",
+      "category": "Machine Learning",
+      "subcategory": null,
+      "path": "Machine Learning/Khang Pham - Machine Learning Design Interview_ Machine Learning System Design Interview-Independently published (2022).pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Machine%20Learning/Khang%20Pham%20-%20Machine%20Learning%20Design%20Interview_%20Machine%20Learning%20System%20Design%20Interview-Independently%20published%20(2022).pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Machine%20Learning/Khang%20Pham%20-%20Machine%20Learning%20Design%20Interview_%20Machine%20Learning%20System%20Design%20Interview-Independently%20published%20(2022).pdf"
+    },
+    {
+      "id": "82fcca52-77f9-4d3c-9c01-d9938f4638ab",
+      "title": "[A Top Down Approach] James F. Kurose - Computer Networking  A Top-Down Approach, 7th Edition (2020, Pearson)",
+      "author": "libgen.li",
+      "category": "networking",
+      "subcategory": null,
+      "path": "networking/[A Top Down Approach] James F. Kurose - Computer Networking_ A Top-Down Approach, 7th Edition (2020, Pearson) - libgen.li.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/networking/%5BA%20Top%20Down%20Approach%5D%20James%20F.%20Kurose%20-%20Computer%20Networking_%20A%20Top-Down%20Approach%2C%207th%20Edition%20(2020%2C%20Pearson)%20-%20libgen.li.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/networking/%5BA%20Top%20Down%20Approach%5D%20James%20F.%20Kurose%20-%20Computer%20Networking_%20A%20Top-Down%20Approach%2C%207th%20Edition%20(2020%2C%20Pearson)%20-%20libgen.li.pdf"
+    },
+    {
+      "id": "219ae9e8-393e-4ec8-8ea9-9737dcea52b6",
+      "title": "[For Dummies] Doug Lowe - Networking All-in-One For Dummies (2021, John Wiley & Sons)",
+      "author": "libgen.li",
+      "category": "networking",
+      "subcategory": null,
+      "path": "networking/[For Dummies] Doug Lowe - Networking All-in-One For Dummies (2021, John Wiley & Sons) - libgen.li.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/networking/%5BFor%20Dummies%5D%20Doug%20Lowe%20-%20Networking%20All-in-One%20For%20Dummies%20(2021%2C%20John%20Wiley%20%26%20Sons)%20-%20libgen.li.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/networking/%5BFor%20Dummies%5D%20Doug%20Lowe%20-%20Networking%20All-in-One%20For%20Dummies%20(2021%2C%20John%20Wiley%20%26%20Sons)%20-%20libgen.li.pdf"
+    },
+    {
+      "id": "a326e7de-e95e-423b-9dca-98e95bd1402b",
+      "title": "Gary A. Donahue - Network Warrior (2011, O'Reilly Media)",
+      "author": "libgen.li",
+      "category": "networking",
+      "subcategory": null,
+      "path": "networking/Gary A. Donahue - Network Warrior (2011, O'Reilly Media) - libgen.li.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/networking/Gary%20A.%20Donahue%20-%20Network%20Warrior%20(2011%2C%20O'Reilly%20Media)%20-%20libgen.li.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/networking/Gary%20A.%20Donahue%20-%20Network%20Warrior%20(2011%2C%20O'Reilly%20Media)%20-%20libgen.li.pdf"
+    },
+    {
+      "id": "fe2d4d39-5c71-4f0e-88a1-eafe27bf7924",
+      "title": "Gaston C. Hillar - MQTT Essentials - A Lightweight IoT Protocol (2017, Packt Publishing)",
+      "author": "libgen.li",
+      "category": "networking",
+      "subcategory": "mqtt",
+      "path": "networking/mqtt/Gaston C. Hillar - MQTT Essentials - A Lightweight IoT Protocol (2017, Packt Publishing) - libgen.li.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/networking/mqtt/Gaston%20C.%20Hillar%20-%20MQTT%20Essentials%20-%20A%20Lightweight%20IoT%20Protocol%20(2017%2C%20Packt%20Publishing)%20-%20libgen.li.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/networking/mqtt/Gaston%20C.%20Hillar%20-%20MQTT%20Essentials%20-%20A%20Lightweight%20IoT%20Protocol%20(2017%2C%20Packt%20Publishing)%20-%20libgen.li.pdf"
+    },
+    {
+      "id": "a063bbba-b681-4612-9113-71dc633a6ac1",
+      "title": "Gordon Davies - Networking Fundamentals  Develop the networking skills required to pass the Microsoft MTA Networking Fundamentals Exam 98-366 (2019, Packt Publishing)",
+      "author": "libgen.li",
+      "category": "networking",
+      "subcategory": null,
+      "path": "networking/Gordon Davies - Networking Fundamentals_ Develop the networking skills required to pass the Microsoft MTA Networking Fundamentals Exam 98-366 (2019, Packt Publishing) - libgen.li.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/networking/Gordon%20Davies%20-%20Networking%20Fundamentals_%20Develop%20the%20networking%20skills%20required%20to%20pass%20the%20Microsoft%20MTA%20Networking%20Fundamentals%20Exam%2098-366%20(2019%2C%20Packt%20Publishing)%20-%20libgen.li.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/networking/Gordon%20Davies%20-%20Networking%20Fundamentals_%20Develop%20the%20networking%20skills%20required%20to%20pass%20the%20Microsoft%20MTA%20Networking%20Fundamentals%20Exam%2098-366%20(2019%2C%20Packt%20Publishing)%20-%20libgen.li.pdf"
+    },
+    {
+      "id": "002f713e-0ade-4983-8138-273b7af66608",
+      "title": "James Strong, Vallery Lancey - Networking and Kubernetes  A Layered Approach (2021, O'Reilly Media)",
+      "author": "libgen.li (1)",
+      "category": "networking",
+      "subcategory": null,
+      "path": "networking/James Strong, Vallery Lancey - Networking and Kubernetes_ A Layered Approach (2021, O'Reilly Media) - libgen.li (1).pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/networking/James%20Strong%2C%20Vallery%20Lancey%20-%20Networking%20and%20Kubernetes_%20A%20Layered%20Approach%20(2021%2C%20O'Reilly%20Media)%20-%20libgen.li%20(1).pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/networking/James%20Strong%2C%20Vallery%20Lancey%20-%20Networking%20and%20Kubernetes_%20A%20Layered%20Approach%20(2021%2C%20O'Reilly%20Media)%20-%20libgen.li%20(1).pdf"
+    },
+    {
+      "id": "f13143f7-365c-4785-bd52-7f23cb857042",
+      "title": "Jason Edelman, Scott S. Lowe, Matt Oswalt - Network Programmability and Automation  Skills for the Next-Generation Network Engineer (2018, O’Reilly Media)",
+      "author": "libgen.li (1)",
+      "category": "networking",
+      "subcategory": null,
+      "path": "networking/Jason Edelman, Scott S. Lowe, Matt Oswalt - Network Programmability and Automation_ Skills for the Next-Generation Network Engineer (2018, O’Reilly Media) - libgen.li (1).pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/networking/Jason%20Edelman%2C%20Scott%20S.%20Lowe%2C%20Matt%20Oswalt%20-%20Network%20Programmability%20and%20Automation_%20Skills%20for%20the%20Next-Generation%20Network%20Engineer%20(2018%2C%20O%E2%80%99Reilly%20Media)%20-%20libgen.li%20(1).pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/networking/Jason%20Edelman%2C%20Scott%20S.%20Lowe%2C%20Matt%20Oswalt%20-%20Network%20Programmability%20and%20Automation_%20Skills%20for%20the%20Next-Generation%20Network%20Engineer%20(2018%2C%20O%E2%80%99Reilly%20Media)%20-%20libgen.li%20(1).pdf"
+    },
+    {
+      "id": "c74dd3ef-b73a-455c-82d2-99d91189dc87",
+      "title": "Kurose, James & Ross, Keith - Computer Networking  A Top-Down Approach (2021, Pearson)",
+      "author": "libgen.li",
+      "category": "networking",
+      "subcategory": null,
+      "path": "networking/Kurose, James & Ross, Keith - Computer Networking_ A Top-Down Approach (2021, Pearson) - libgen.li.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/networking/Kurose%2C%20James%20%26%20Ross%2C%20Keith%20-%20Computer%20Networking_%20A%20Top-Down%20Approach%20(2021%2C%20Pearson)%20-%20libgen.li.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/networking/Kurose%2C%20James%20%26%20Ross%2C%20Keith%20-%20Computer%20Networking_%20A%20Top-Down%20Approach%20(2021%2C%20Pearson)%20-%20libgen.li.pdf"
+    },
+    {
+      "id": "784b1711-bd06-49bd-ba63-cf5b497996ee",
+      "title": "Mastering MQTT-Your Ultimate Tutorial for MQTT",
+      "author": "",
+      "category": "networking",
+      "subcategory": "mqtt",
+      "path": "networking/mqtt/Mastering MQTT-Your Ultimate Tutorial for MQTT.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/networking/mqtt/Mastering%20MQTT-Your%20Ultimate%20Tutorial%20for%20MQTT.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/networking/mqtt/Mastering%20MQTT-Your%20Ultimate%20Tutorial%20for%20MQTT.pdf"
+    },
+    {
+      "id": "c5117de6-5cf9-4729-bbef-11350d179828",
+      "title": "The End of Advertising as We Know It (2002)",
+      "author": "Sergio Zyman, Armin Brott",
+      "category": "Non-Technical",
+      "subcategory": null,
+      "path": "Non-Technical/The End of Advertising as We Know It (2002) - Sergio Zyman, Armin Brott .pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Non-Technical/The%20End%20of%20Advertising%20as%20We%20Know%20It%20(2002)%20-%20Sergio%20Zyman%2C%20Armin%20Brott%20.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Non-Technical/The%20End%20of%20Advertising%20as%20We%20Know%20It%20(2002)%20-%20Sergio%20Zyman%2C%20Armin%20Brott%20.pdf"
+    },
+    {
+      "id": "115de297-c61d-41c3-abb8-c0e71ee03257",
+      "title": "The Hard Thing About Hard Things",
+      "author": "",
+      "category": "Non-Technical",
+      "subcategory": null,
+      "path": "Non-Technical/The Hard Thing About Hard Things.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Non-Technical/The%20Hard%20Thing%20About%20Hard%20Things.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Non-Technical/The%20Hard%20Thing%20About%20Hard%20Things.pdf"
+    },
+    {
+      "id": "096f8a51-85ce-4991-bc82-872e93714576",
+      "title": "[Prentice-Hall Software Series] Maurice J. Bach - The Design of the UNIX Operating System (Prentice-Hall Software Series) (1986, Prentice Hall)",
+      "author": "libgen.li",
+      "category": "Operating Systems",
+      "subcategory": null,
+      "path": "Operating Systems/[Prentice-Hall Software Series] Maurice J. Bach - The Design of the UNIX Operating System (Prentice-Hall Software Series) (1986, Prentice Hall) - libgen.li.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Operating%20Systems/%5BPrentice-Hall%20Software%20Series%5D%20Maurice%20J.%20Bach%20-%20The%20Design%20of%20the%20UNIX%20Operating%20System%20(Prentice-Hall%20Software%20Series)%20(1986%2C%20Prentice%20Hall)%20-%20libgen.li.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Operating%20Systems/%5BPrentice-Hall%20Software%20Series%5D%20Maurice%20J.%20Bach%20-%20The%20Design%20of%20the%20UNIX%20Operating%20System%20(Prentice-Hall%20Software%20Series)%20(1986%2C%20Prentice%20Hall)%20-%20libgen.li.pdf"
+    },
+    {
+      "id": "34401f16-c8e2-4dbf-b95e-73251b9886b3",
+      "title": "A COMMENTARY ON THE SIXTH EDITION UNIX OPERATING SYSTEM",
+      "author": "",
+      "category": "Operating Systems",
+      "subcategory": null,
+      "path": "Operating Systems/A COMMENTARY ON THE SIXTH EDITION UNIX OPERATING SYSTEM.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Operating%20Systems/A%20COMMENTARY%20ON%20THE%20SIXTH%20EDITION%20UNIX%20OPERATING%20SYSTEM.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Operating%20Systems/A%20COMMENTARY%20ON%20THE%20SIXTH%20EDITION%20UNIX%20OPERATING%20SYSTEM.pdf"
+    },
+    {
+      "id": "20bf2f9c-7920-4162-ac5b-ffc79d060f9f",
+      "title": "a simple, Unix-like teaching operating system",
+      "author": "",
+      "category": "Operating Systems",
+      "subcategory": null,
+      "path": "Operating Systems/a simple, Unix-like teaching operating system.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Operating%20Systems/a%20simple%2C%20Unix-like%20teaching%20operating%20system.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Operating%20Systems/a%20simple%2C%20Unix-like%20teaching%20operating%20system.pdf"
+    },
+    {
+      "id": "04b181b0-f169-4ce5-b5c2-9d5a1c4620b0",
+      "title": "Andrew S. Tanenbaum, Herbert Bos - Modern Operating Systems (2023, Pearson)",
+      "author": "libgen.li",
+      "category": "Operating Systems",
+      "subcategory": null,
+      "path": "Operating Systems/Andrew S. Tanenbaum, Herbert Bos - Modern Operating Systems (2023, Pearson) - libgen.li.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Operating%20Systems/Andrew%20S.%20Tanenbaum%2C%20Herbert%20Bos%20-%20Modern%20Operating%20Systems%20(2023%2C%20Pearson)%20-%20libgen.li.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Operating%20Systems/Andrew%20S.%20Tanenbaum%2C%20Herbert%20Bos%20-%20Modern%20Operating%20Systems%20(2023%2C%20Pearson)%20-%20libgen.li.pdf"
+    },
+    {
+      "id": "6226082e-b7b2-487e-8f4a-f4d5f3342e70",
+      "title": "How Linux Works. What Every Superuser Should Know (2021, no starch press)",
+      "author": "Brian Ward",
+      "category": "Operating Systems",
+      "subcategory": null,
+      "path": "Operating Systems/Brian Ward - How Linux Works. What Every Superuser Should Know (2021, no starch press).pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Operating%20Systems/Brian%20Ward%20-%20How%20Linux%20Works.%20What%20Every%20Superuser%20Should%20Know%20(2021%2C%20no%20starch%20press).pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Operating%20Systems/Brian%20Ward%20-%20How%20Linux%20Works.%20What%20Every%20Superuser%20Should%20Know%20(2021%2C%20no%20starch%20press).pdf"
+    },
+    {
+      "id": "442852c8-675f-4554-b688-48e27f19355f",
+      "title": "Operating System Concepts Essentials (2013, Wiley)",
+      "author": "Abraham Silberschatz, Peter B. Galvin, Greg Gagne",
+      "category": "Operating Systems",
+      "subcategory": null,
+      "path": "Operating Systems/Abraham Silberschatz, Peter B. Galvin, Greg Gagne - Operating System Concepts Essentials (2013, Wiley).pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Operating%20Systems/Abraham%20Silberschatz%2C%20Peter%20B.%20Galvin%2C%20Greg%20Gagne%20-%20Operating%20System%20Concepts%20Essentials%20(2013%2C%20Wiley).pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Operating%20Systems/Abraham%20Silberschatz%2C%20Peter%20B.%20Galvin%2C%20Greg%20Gagne%20-%20Operating%20System%20Concepts%20Essentials%20(2013%2C%20Wiley).pdf"
+    },
+    {
+      "id": "00ef0a90-f4ff-45bb-9289-ed9132164c49",
+      "title": "Operating Systems In Depth  Design and Programming (2011 2010, Wiley)",
+      "author": "Doeppner, Thomas W",
+      "category": "Operating Systems",
+      "subcategory": null,
+      "path": "Operating Systems/Doeppner, Thomas W - Operating Systems In Depth_ Design and Programming (2011_2010, Wiley).pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Operating%20Systems/Doeppner%2C%20Thomas%20W%20-%20Operating%20Systems%20In%20Depth_%20Design%20and%20Programming%20(2011_2010%2C%20Wiley).pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Operating%20Systems/Doeppner%2C%20Thomas%20W%20-%20Operating%20Systems%20In%20Depth_%20Design%20and%20Programming%20(2011_2010%2C%20Wiley).pdf"
+    },
+    {
+      "id": "46440bd1-d81c-4011-8342-9d70c3afa976",
+      "title": "Operating Systems Principles & Practice (2015)",
+      "author": "",
+      "category": "Operating Systems",
+      "subcategory": null,
+      "path": "Operating Systems/Operating Systems Principles & Practice (2015).pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Operating%20Systems/Operating%20Systems%20Principles%20%26%20Practice%20(2015).pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Operating%20Systems/Operating%20Systems%20Principles%20%26%20Practice%20(2015).pdf"
+    },
+    {
+      "id": "69aa94d8-0c05-450e-afbc-f6e693570ff1",
+      "title": "Andrew Hunt, David Thomas - The Pragmatic Programmer  From Journeyman to Master (1999, Addison-Wesley Professional)",
+      "author": "libgen.lc (1)",
+      "category": "Problem Solving",
+      "subcategory": null,
+      "path": "Problem Solving/Andrew Hunt, David Thomas - The Pragmatic Programmer_ From Journeyman to Master (1999, Addison-Wesley Professional) - libgen.lc (1).pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Problem%20Solving/Andrew%20Hunt%2C%20David%20Thomas%20-%20The%20Pragmatic%20Programmer_%20From%20Journeyman%20to%20Master%20(1999%2C%20Addison-Wesley%20Professional)%20-%20libgen.lc%20(1).pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Problem%20Solving/Andrew%20Hunt%2C%20David%20Thomas%20-%20The%20Pragmatic%20Programmer_%20From%20Journeyman%20to%20Master%20(1999%2C%20Addison-Wesley%20Professional)%20-%20libgen.lc%20(1).pdf"
+    },
+    {
+      "id": "30714d31-d523-4a12-a0fe-b98fe22870a6",
+      "title": "David Thomas, Andrew Hunt - The Pragmatic Programmer  Your Journey To Mastery, 20th Anniversary Edition (2019, Addison-Wesley Professional)",
+      "author": "libgen.li",
+      "category": "Problem Solving",
+      "subcategory": null,
+      "path": "Problem Solving/David Thomas, Andrew Hunt - The Pragmatic Programmer_ Your Journey To Mastery, 20th Anniversary Edition (2019, Addison-Wesley Professional) - libgen.li.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Problem%20Solving/David%20Thomas%2C%20Andrew%20Hunt%20-%20The%20Pragmatic%20Programmer_%20Your%20Journey%20To%20Mastery%2C%2020th%20Anniversary%20Edition%20(2019%2C%20Addison-Wesley%20Professional)%20-%20libgen.li.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Problem%20Solving/David%20Thomas%2C%20Andrew%20Hunt%20-%20The%20Pragmatic%20Programmer_%20Your%20Journey%20To%20Mastery%2C%2020th%20Anniversary%20Edition%20(2019%2C%20Addison-Wesley%20Professional)%20-%20libgen.li.pdf"
+    },
+    {
+      "id": "c3f0c431-3ca7-4099-ac66-17c038b4b9d0",
+      "title": "Grokking the Advanced System Design Interview (2021)",
+      "author": "",
+      "category": "Problem Solving",
+      "subcategory": "System Design Interview",
+      "path": "Problem Solving/System Design Interview/_Grokking the Advanced System Design Interview (2021).pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Problem%20Solving/System%20Design%20Interview/_Grokking%20the%20Advanced%20System%20Design%20Interview%20(2021).pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Problem%20Solving/System%20Design%20Interview/_Grokking%20the%20Advanced%20System%20Design%20Interview%20(2021).pdf"
+    },
+    {
+      "id": "8ccd60ce-6249-48e0-80f6-96a2b701bc56",
+      "title": "Grokking the Advanced System Design Interview (2021)",
+      "author": "",
+      "category": "Problem Solving",
+      "subcategory": null,
+      "path": "Problem Solving/_Grokking the Advanced System Design Interview (2021).pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Problem%20Solving/_Grokking%20the%20Advanced%20System%20Design%20Interview%20(2021).pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Problem%20Solving/_Grokking%20the%20Advanced%20System%20Design%20Interview%20(2021).pdf"
+    },
+    {
+      "id": "992cf919-dbb2-4f0f-942c-7f7bfd34e043",
+      "title": "the-effective-engineer",
+      "author": "",
+      "category": "Problem Solving",
+      "subcategory": null,
+      "path": "Problem Solving/the-effective-engineer.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Problem%20Solving/the-effective-engineer.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Problem%20Solving/the-effective-engineer.pdf"
+    },
+    {
+      "id": "35110d6b-f14b-44e7-9000-2bda8842a006",
+      "title": "triz-for-dummies",
+      "author": "",
+      "category": "Problem Solving",
+      "subcategory": null,
+      "path": "Problem Solving/triz-for-dummies.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Problem%20Solving/triz-for-dummies.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Problem%20Solving/triz-for-dummies.pdf"
+    },
+    {
+      "id": "2e21864e-1b2c-4822-88a2-84c0aebf929b",
+      "title": "[JAVA][Java Performance",
+      "author": "The Definitive Guide]",
+      "category": "programming",
+      "subcategory": "java",
+      "path": "programming/java/[JAVA][Java Performance - The Definitive Guide].pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/programming/java/%5BJAVA%5D%5BJava%20Performance%20-%20The%20Definitive%20Guide%5D.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/programming/java/%5BJAVA%5D%5BJava%20Performance%20-%20The%20Definitive%20Guide%5D.pdf"
+    },
+    {
+      "id": "e2ae27d3-ca77-4214-bbd1-ce37ab51917c",
+      "title": "[Robert C. Martin series] Feathers, Michael C - Working effectively with legacy code (2013, Prentice Hall PTR)",
+      "author": "libgen.li",
+      "category": "programming",
+      "subcategory": "refactoring",
+      "path": "programming/refactoring/[Robert C. Martin series] Feathers, Michael C - Working effectively with legacy code (2013, Prentice Hall PTR) - libgen.li.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/programming/refactoring/%5BRobert%20C.%20Martin%20series%5D%20Feathers%2C%20Michael%20C%20-%20Working%20effectively%20with%20legacy%20code%20(2013%2C%20Prentice%20Hall%20PTR)%20-%20libgen.li.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/programming/refactoring/%5BRobert%20C.%20Martin%20series%5D%20Feathers%2C%20Michael%20C%20-%20Working%20effectively%20with%20legacy%20code%20(2013%2C%20Prentice%20Hall%20PTR)%20-%20libgen.li.pdf"
+    },
+    {
+      "id": "e0fb0e85-7d5c-4fbb-a1fd-75650eec330f",
+      "title": "97 Things Every Programmer Should Know",
+      "author": "",
+      "category": "programming",
+      "subcategory": null,
+      "path": "programming/97_Things_Every_Programmer_Should_Know.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/programming/97_Things_Every_Programmer_Should_Know.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/programming/97_Things_Every_Programmer_Should_Know.pdf"
+    },
+    {
+      "id": "6395fc29-12dd-4d86-bdf9-de928927391a",
+      "title": "Agile-Principles-Patterns-and-Practices-in-C",
+      "author": "",
+      "category": "programming",
+      "subcategory": "design-patterns",
+      "path": "programming/design-patterns/Agile-Principles-Patterns-and-Practices-in-C.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/programming/design-patterns/Agile-Principles-Patterns-and-Practices-in-C.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/programming/design-patterns/Agile-Principles-Patterns-and-Practices-in-C.pdf"
+    },
+    {
+      "id": "7a7010ee-219e-458a-980a-7d8cc6b5e25c",
+      "title": "Alexander Shvets - Dive Into Design Patterns",
+      "author": "libgen.li",
+      "category": "programming",
+      "subcategory": "design-pattern",
+      "path": "programming/design-pattern/Alexander Shvets - Dive Into Design Patterns - libgen.li.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/programming/design-pattern/Alexander%20Shvets%20-%20Dive%20Into%20Design%20Patterns%20-%20libgen.li.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/programming/design-pattern/Alexander%20Shvets%20-%20Dive%20Into%20Design%20Patterns%20-%20libgen.li.pdf"
+    },
+    {
+      "id": "19f49f00-63f6-447b-8b51-ec00bd75a319",
+      "title": "Art of",
+      "author": "",
+      "category": "programming",
+      "subcategory": "concurrency",
+      "path": "programming/concurrency/Art of.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/programming/concurrency/Art%20of.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/programming/concurrency/Art%20of.pdf"
+    },
+    {
+      "id": "e06dd2a1-8199-4f7e-86ad-4e6f66b6cbd2",
+      "title": "Clean Code  A Handbook of Agile Software Craftsmanship",
+      "author": "Robert C. Martin",
+      "category": "programming",
+      "subcategory": "clean-code",
+      "path": "programming/clean-code/Clean Code_ A Handbook of Agile Software Craftsmanship - Robert C. Martin.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/programming/clean-code/Clean%20Code_%20A%20Handbook%20of%20Agile%20Software%20Craftsmanship%20-%20Robert%20C.%20Martin.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/programming/clean-code/Clean%20Code_%20A%20Handbook%20of%20Agile%20Software%20Craftsmanship%20-%20Robert%20C.%20Martin.pdf"
+    },
+    {
+      "id": "cae59ceb-b14c-481c-abc4-63b85554ca29",
+      "title": "clean-code",
+      "author": "",
+      "category": "programming",
+      "subcategory": "clean-code",
+      "path": "programming/clean-code/clean-code.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/programming/clean-code/clean-code.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/programming/clean-code/clean-code.pdf"
+    },
+    {
+      "id": "cfaafc53-bf5f-42fe-a6fc-091dcfc159b6",
+      "title": "clean-code-tips-tricks-world-coding",
+      "author": "",
+      "category": "programming",
+      "subcategory": "clean-code",
+      "path": "programming/clean-code/clean-code-tips-tricks-world-coding.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/programming/clean-code/clean-code-tips-tricks-world-coding.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/programming/clean-code/clean-code-tips-tricks-world-coding.pdf"
+    },
+    {
+      "id": "d416079b-a46f-4be1-b10b-566a3aa8bd07",
+      "title": "Cloud Native Java  Designing resilient system with spring boot (O'Reilly Media)",
+      "author": "Josh Long , Kenny Bastani",
+      "category": "programming",
+      "subcategory": "spring",
+      "path": "programming/spring/Cloud Native Java_ Designing resilient system with spring boot (O'Reilly Media) - Josh Long , Kenny Bastani.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/programming/spring/Cloud%20Native%20Java_%20Designing%20resilient%20system%20with%20spring%20boot%20(O'Reilly%20Media)%20-%20Josh%20Long%20%2C%20Kenny%20Bastani.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/programming/spring/Cloud%20Native%20Java_%20Designing%20resilient%20system%20with%20spring%20boot%20(O'Reilly%20Media)%20-%20Josh%20Long%20%2C%20Kenny%20Bastani.pdf"
+    },
+    {
+      "id": "0c72d602-e646-4e43-873d-64b39f44ec32",
+      "title": "Cloud Native Spring in Action with Spring Boot And Kubernetes (2022, Manning Publications)",
+      "author": "Thomas Vitale",
+      "category": "programming",
+      "subcategory": "spring",
+      "path": "programming/spring/Cloud Native Spring in Action with Spring Boot And Kubernetes (2022, Manning Publications) - Thomas Vitale.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/programming/spring/Cloud%20Native%20Spring%20in%20Action%20with%20Spring%20Boot%20And%20Kubernetes%20(2022%2C%20Manning%20Publications)%20-%20Thomas%20Vitale.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/programming/spring/Cloud%20Native%20Spring%20in%20Action%20with%20Spring%20Boot%20And%20Kubernetes%20(2022%2C%20Manning%20Publications)%20-%20Thomas%20Vitale.pdf"
+    },
+    {
+      "id": "faa65ed6-fa40-402d-96e7-6561c52a8e6f",
+      "title": "Code Simplicity -The Fundamentals of Software",
+      "author": "",
+      "category": "programming",
+      "subcategory": "clean-code",
+      "path": "programming/clean-code/Code Simplicity -The Fundamentals of Software.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/programming/clean-code/Code%20Simplicity%20-The%20Fundamentals%20of%20Software.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/programming/clean-code/Code%20Simplicity%20-The%20Fundamentals%20of%20Software.pdf"
+    },
+    {
+      "id": "49963232-f9e1-47a0-91a7-3ded4d11a351",
+      "title": "Concurrent Programming in Java Design Principles",
+      "author": "",
+      "category": "programming",
+      "subcategory": null,
+      "path": "programming/Concurrent Programming in Java Design Principles.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/programming/Concurrent%20Programming%20in%20Java%20Design%20Principles.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/programming/Concurrent%20Programming%20in%20Java%20Design%20Principles.pdf"
+    },
+    {
+      "id": "4f3cedd4-e1a3-4ba5-bb72-f68c84a0d572",
+      "title": "Design Patterns  Elements of Reusable Object-Oriented Software-addison-wesley (1994)",
+      "author": "Erich Gamma, Richard Helm, Ralph Johnson, John M. Vlissides",
+      "category": "programming",
+      "subcategory": "design-pattern",
+      "path": "programming/design-pattern/Erich Gamma, Richard Helm, Ralph Johnson, John M. Vlissides - Design Patterns_ Elements of Reusable Object-Oriented Software-addison-wesley (1994).pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/programming/design-pattern/Erich%20Gamma%2C%20Richard%20Helm%2C%20Ralph%20Johnson%2C%20John%20M.%20Vlissides%20-%20Design%20Patterns_%20Elements%20of%20Reusable%20Object-Oriented%20Software-addison-wesley%20(1994).pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/programming/design-pattern/Erich%20Gamma%2C%20Richard%20Helm%2C%20Ralph%20Johnson%2C%20John%20M.%20Vlissides%20-%20Design%20Patterns_%20Elements%20of%20Reusable%20Object-Oriented%20Software-addison-wesley%20(1994).pdf"
+    },
+    {
+      "id": "25cda3b6-191c-4892-9e58-c302b562246e",
+      "title": "Designing Web APIs by Brenda Jin, Saurabh Sahni, Amir Shevat-OReilly",
+      "author": "",
+      "category": "programming",
+      "subcategory": null,
+      "path": "programming/Designing Web APIs by Brenda Jin, Saurabh Sahni, Amir Shevat-OReilly.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/programming/Designing%20Web%20APIs%20by%20Brenda%20Jin%2C%20Saurabh%20Sahni%2C%20Amir%20Shevat-OReilly.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/programming/Designing%20Web%20APIs%20by%20Brenda%20Jin%2C%20Saurabh%20Sahni%2C%20Amir%20Shevat-OReilly.pdf"
+    },
+    {
+      "id": "eb86f351-157c-43be-912c-5d1966cd5e02",
+      "title": "Erich Gamma, Richard Helm, Ralph Johnson, John M. Vlissides - Design Patterns  Elements of Reusable Object-Oriented Software (1994, Addison-Wesley Professional)",
+      "author": "libgen.li",
+      "category": "programming",
+      "subcategory": "design-pattern",
+      "path": "programming/design-pattern/Erich Gamma, Richard Helm, Ralph Johnson, John M. Vlissides - Design Patterns_ Elements of Reusable Object-Oriented Software (1994, Addison-Wesley Professional) - libgen.li.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/programming/design-pattern/Erich%20Gamma%2C%20Richard%20Helm%2C%20Ralph%20Johnson%2C%20John%20M.%20Vlissides%20-%20Design%20Patterns_%20Elements%20of%20Reusable%20Object-Oriented%20Software%20(1994%2C%20Addison-Wesley%20Professional)%20-%20libgen.li.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/programming/design-pattern/Erich%20Gamma%2C%20Richard%20Helm%2C%20Ralph%20Johnson%2C%20John%20M.%20Vlissides%20-%20Design%20Patterns_%20Elements%20of%20Reusable%20Object-Oriented%20Software%20(1994%2C%20Addison-Wesley%20Professional)%20-%20libgen.li.pdf"
+    },
+    {
+      "id": "98edbf8b-8e0b-4881-bbcd-b24e6cd5e53f",
+      "title": "Fluent Python  Clear, Concise, and Effective Programming-O'Reilly Media (2022)",
+      "author": "Luciano Ramalho",
+      "category": "programming",
+      "subcategory": "python",
+      "path": "programming/python/Luciano Ramalho - Fluent Python_ Clear, Concise, and Effective Programming-O'Reilly Media (2022).pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/programming/python/Luciano%20Ramalho%20-%20Fluent%20Python_%20Clear%2C%20Concise%2C%20and%20Effective%20Programming-O'Reilly%20Media%20(2022).pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/programming/python/Luciano%20Ramalho%20-%20Fluent%20Python_%20Clear%2C%20Concise%2C%20and%20Effective%20Programming-O'Reilly%20Media%20(2022).pdf"
+    },
+    {
+      "id": "90aca7a0-4ffb-4d11-8c8c-ee109074cb01",
+      "title": "Head First Design Patterns 2nd Edition by Eric Freeman, Elisabeth Robson",
+      "author": "",
+      "category": "programming",
+      "subcategory": "design-patterns",
+      "path": "programming/design-patterns/Head First Design Patterns 2nd Edition by Eric Freeman, Elisabeth Robson.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/programming/design-patterns/Head%20First%20Design%20Patterns%202nd%20Edition%20by%20Eric%20Freeman%2C%20Elisabeth%20Robson.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/programming/design-patterns/Head%20First%20Design%20Patterns%202nd%20Edition%20by%20Eric%20Freeman%2C%20Elisabeth%20Robson.pdf"
+    },
+    {
+      "id": "d4f6824a-70db-4587-bfcf-a82588145d9f",
+      "title": "Impractical Python Projects  Playful Programming Activities to Make You Smarter-No Starch Press (2019) -Lee Vaughan",
+      "author": "",
+      "category": "programming",
+      "subcategory": "python",
+      "path": "programming/python/Impractical Python Projects_ Playful Programming Activities to Make You Smarter-No Starch Press (2019) -Lee Vaughan .pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/programming/python/Impractical%20Python%20Projects_%20Playful%20Programming%20Activities%20to%20Make%20You%20Smarter-No%20Starch%20Press%20(2019)%20-Lee%20Vaughan%20.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/programming/python/Impractical%20Python%20Projects_%20Playful%20Programming%20Activities%20to%20Make%20You%20Smarter-No%20Starch%20Press%20(2019)%20-Lee%20Vaughan%20.pdf"
+    },
+    {
+      "id": "135ab585-1929-4a82-9a51-ec9af6f469cd",
+      "title": "Introduction to Java Programming and Data Structures, Comprehensive Version (2017, Pearson)",
+      "author": "Y Daniel Liang",
+      "category": "programming",
+      "subcategory": "java",
+      "path": "programming/java/Y Daniel Liang - Introduction to Java Programming and Data Structures, Comprehensive Version (2017, Pearson).pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/programming/java/Y%20Daniel%20Liang%20-%20Introduction%20to%20Java%20Programming%20and%20Data%20Structures%2C%20Comprehensive%20Version%20(2017%2C%20Pearson).pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/programming/java/Y%20Daniel%20Liang%20-%20Introduction%20to%20Java%20Programming%20and%20Data%20Structures%2C%20Comprehensive%20Version%20(2017%2C%20Pearson).pdf"
+    },
+    {
+      "id": "6ce799c5-cc13-418a-ba99-ba525a230572",
+      "title": "Introduction to Java Programming and Data Structures, Comprehensive Version (2019, Pearson)",
+      "author": "Y. Daniel Liang",
+      "category": "programming",
+      "subcategory": "java",
+      "path": "programming/java/Y. Daniel Liang - Introduction to Java Programming and Data Structures, Comprehensive Version (2019, Pearson).pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/programming/java/Y.%20Daniel%20Liang%20-%20Introduction%20to%20Java%20Programming%20and%20Data%20Structures%2C%20Comprehensive%20Version%20(2019%2C%20Pearson).pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/programming/java/Y.%20Daniel%20Liang%20-%20Introduction%20to%20Java%20Programming%20and%20Data%20Structures%2C%20Comprehensive%20Version%20(2019%2C%20Pearson).pdf"
+    },
+    {
+      "id": "8e094d6f-22de-4f38-b166-430c218f380e",
+      "title": "Javier Fernandez Gonzalez - Mastering Concurrency Programming with Java 9 (true pdf) (2020, Packt)",
+      "author": "libgen.li",
+      "category": "programming",
+      "subcategory": "concurrency",
+      "path": "programming/concurrency/Javier Fernandez Gonzalez - Mastering Concurrency Programming with Java 9 (true pdf) (2020, Packt) - libgen.li.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/programming/concurrency/Javier%20Fernandez%20Gonzalez%20-%20Mastering%20Concurrency%20Programming%20with%20Java%209%20(true%20pdf)%20(2020%2C%20Packt)%20-%20libgen.li.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/programming/concurrency/Javier%20Fernandez%20Gonzalez%20-%20Mastering%20Concurrency%20Programming%20with%20Java%209%20(true%20pdf)%20(2020%2C%20Packt)%20-%20libgen.li.pdf"
+    },
+    {
+      "id": "0da01f70-535a-4fcb-bbbd-9d37d9a984e6",
+      "title": "Learn Python The Hard Way-Addison-Wesley (2013)",
+      "author": "Zed Shaw",
+      "category": "programming",
+      "subcategory": "python",
+      "path": "programming/python/Learn Python The Hard Way-Addison-Wesley (2013) - Zed Shaw .pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/programming/python/Learn%20Python%20The%20Hard%20Way-Addison-Wesley%20(2013)%20-%20Zed%20Shaw%20.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/programming/python/Learn%20Python%20The%20Hard%20Way-Addison-Wesley%20(2013)%20-%20Zed%20Shaw%20.pdf"
+    },
+    {
+      "id": "f9ba9ee0-3233-47d7-8425-97766f90be71",
+      "title": "Learn Python the Hard Way-Addison-Wesley Professional (2024)",
+      "author": "(Zed Shaw's Hard Way Series) Zed Shaw",
+      "category": "programming",
+      "subcategory": "python",
+      "path": "programming/python/(Zed Shaw's Hard Way Series) Zed Shaw - Learn Python the Hard Way-Addison-Wesley Professional (2024).pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/programming/python/(Zed%20Shaw's%20Hard%20Way%20Series)%20Zed%20Shaw%20-%20Learn%20Python%20the%20Hard%20Way-Addison-Wesley%20Professional%20(2024).pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/programming/python/(Zed%20Shaw's%20Hard%20Way%20Series)%20Zed%20Shaw%20-%20Learn%20Python%20the%20Hard%20Way-Addison-Wesley%20Professional%20(2024).pdf"
+    },
+    {
+      "id": "e8a446df-87e0-4e04-b3ce-3ff960c8489b",
+      "title": "Learning Spring Boot 3.0  Simplify the development of production-grade applications using Java and Spring, 3rd Edition-Packt Publishing (2022)",
+      "author": "Greg L. Turnquist",
+      "category": "programming",
+      "subcategory": "spring",
+      "path": "programming/spring/Learning Spring Boot 3.0_ Simplify the development of production-grade applications using Java and Spring, 3rd Edition-Packt Publishing (2022) - Greg L. Turnquist.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/programming/spring/Learning%20Spring%20Boot%203.0_%20Simplify%20the%20development%20of%20production-grade%20applications%20using%20Java%20and%20Spring%2C%203rd%20Edition-Packt%20Publishing%20(2022)%20-%20Greg%20L.%20Turnquist.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/programming/spring/Learning%20Spring%20Boot%203.0_%20Simplify%20the%20development%20of%20production-grade%20applications%20using%20Java%20and%20Spring%2C%203rd%20Edition-Packt%20Publishing%20(2022)%20-%20Greg%20L.%20Turnquist.pdf"
+    },
+    {
+      "id": "5db91252-777c-46a4-a737-83129847e512",
+      "title": "Mastering Spring Boot 2.0  Build modern, cloud-native, and distributed systems using spring boot-Packt Publishing (2018)",
+      "author": "Dinesh Rajput",
+      "category": "programming",
+      "subcategory": "spring",
+      "path": "programming/spring/Mastering Spring Boot 2.0_ Build modern, cloud-native, and distributed systems using spring boot-Packt Publishing (2018) - Dinesh Rajput.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/programming/spring/Mastering%20Spring%20Boot%202.0_%20Build%20modern%2C%20cloud-native%2C%20and%20distributed%20systems%20using%20spring%20boot-Packt%20Publishing%20(2018)%20-%20Dinesh%20Rajput.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/programming/spring/Mastering%20Spring%20Boot%202.0_%20Build%20modern%2C%20cloud-native%2C%20and%20distributed%20systems%20using%20spring%20boot-Packt%20Publishing%20(2018)%20-%20Dinesh%20Rajput.pdf"
+    },
+    {
+      "id": "7b6b37a7-cbe6-4751-b777-9c71985b0663",
+      "title": "Oaks, Scott Wong, Henry - Java Threads (2004, O'Reilly Media)",
+      "author": "libgen.li",
+      "category": "programming",
+      "subcategory": "concurrency",
+      "path": "programming/concurrency/Oaks, Scott_Wong, Henry - Java Threads (2004, O'Reilly Media) - libgen.li.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/programming/concurrency/Oaks%2C%20Scott_Wong%2C%20Henry%20-%20Java%20Threads%20(2004%2C%20O'Reilly%20Media)%20-%20libgen.li.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/programming/concurrency/Oaks%2C%20Scott_Wong%2C%20Henry%20-%20Java%20Threads%20(2004%2C%20O'Reilly%20Media)%20-%20libgen.li.pdf"
+    },
+    {
+      "id": "9881140f-1c2e-4ccc-8a92-a2060af01436",
+      "title": "Pro Git (2023)",
+      "author": "Scott Chacon  Ben Straub",
+      "category": "programming",
+      "subcategory": "tools",
+      "path": "programming/tools/Scott Chacon_ Ben Straub - Pro Git (2023).pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/programming/tools/Scott%20Chacon_%20Ben%20Straub%20-%20Pro%20Git%20(2023).pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/programming/tools/Scott%20Chacon_%20Ben%20Straub%20-%20Pro%20Git%20(2023).pdf"
+    },
+    {
+      "id": "6027719c-033a-42d9-a9b2-c84269413b96",
+      "title": "Python Distilled - Pearson (2021)",
+      "author": "David Beazley",
+      "category": "programming",
+      "subcategory": "python",
+      "path": "programming/python/Python Distilled - Pearson (2021) - David Beazley.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/programming/python/Python%20Distilled%20-%20Pearson%20(2021)%20-%20David%20Beazley.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/programming/python/Python%20Distilled%20-%20Pearson%20(2021)%20-%20David%20Beazley.pdf"
+    },
+    {
+      "id": "021d1fb1-dc66-44e2-be90-a85d0b98e71c",
+      "title": "Spring Boot in Action-Manning Publications (2016)",
+      "author": "Craig Walls",
+      "category": "programming",
+      "subcategory": "spring",
+      "path": "programming/spring/Spring Boot in Action-Manning Publications (2016) - Craig Walls.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/programming/spring/Spring%20Boot%20in%20Action-Manning%20Publications%20(2016)%20-%20Craig%20Walls.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/programming/spring/Spring%20Boot%20in%20Action-Manning%20Publications%20(2016)%20-%20Craig%20Walls.pdf"
+    },
+    {
+      "id": "b124a8b9-7a66-47bf-af30-531c1b79debc",
+      "title": "Spring Boot in Practice (2022, Manning Publications)",
+      "author": "Somnath Musib",
+      "category": "programming",
+      "subcategory": "spring",
+      "path": "programming/spring/Spring Boot in Practice (2022, Manning Publications) - Somnath Musib.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/programming/spring/Spring%20Boot%20in%20Practice%20(2022%2C%20Manning%20Publications)%20-%20Somnath%20Musib.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/programming/spring/Spring%20Boot%20in%20Practice%20(2022%2C%20Manning%20Publications)%20-%20Somnath%20Musib.pdf"
+    },
+    {
+      "id": "2b79880b-22b5-498b-99e9-158d3b5a8622",
+      "title": "Stratospheric From Zero to Production with Spring Boot and AWS (2021, leanpub.com)",
+      "author": "Tom Hombergs, Björn Wilmsmann and Philip Riecks",
+      "category": "programming",
+      "subcategory": "spring",
+      "path": "programming/spring/Stratospheric From Zero to Production with Spring Boot and AWS (2021, leanpub.com) - Tom Hombergs, Björn Wilmsmann and Philip Riecks.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/programming/spring/Stratospheric%20From%20Zero%20to%20Production%20with%20Spring%20Boot%20and%20AWS%20(2021%2C%20leanpub.com)%20-%20Tom%20Hombergs%2C%20Bj%C3%B6rn%20Wilmsmann%20and%20Philip%20Riecks.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/programming/spring/Stratospheric%20From%20Zero%20to%20Production%20with%20Spring%20Boot%20and%20AWS%20(2021%2C%20leanpub.com)%20-%20Tom%20Hombergs%2C%20Bj%C3%B6rn%20Wilmsmann%20and%20Philip%20Riecks.pdf"
+    },
+    {
+      "id": "35bb8f69-cbae-4165-b663-ec50f6572393",
+      "title": "The Art of Multiprocessor Programming, Revised Reprint- Maurice Herlihy, Nir Shavit -Morgan Kaufmann (2012)",
+      "author": "",
+      "category": "programming",
+      "subcategory": "concurrency",
+      "path": "programming/concurrency/The Art of Multiprocessor Programming, Revised Reprint- Maurice Herlihy, Nir Shavit -Morgan Kaufmann (2012).pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/programming/concurrency/The%20Art%20of%20Multiprocessor%20Programming%2C%20Revised%20Reprint-%20Maurice%20Herlihy%2C%20Nir%20Shavit%20-Morgan%20Kaufmann%20(2012).pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/programming/concurrency/The%20Art%20of%20Multiprocessor%20Programming%2C%20Revised%20Reprint-%20Maurice%20Herlihy%2C%20Nir%20Shavit%20-Morgan%20Kaufmann%20(2012).pdf"
+    },
+    {
+      "id": "11f7dbe9-5c31-42a0-b34a-16171cd074ca",
+      "title": "The Art of Unit Testing, with examples in C  (2014, Manning)",
+      "author": "Roy Osherove",
+      "category": "programming",
+      "subcategory": null,
+      "path": "programming/The Art of Unit Testing, with examples in C_ (2014, Manning) - Roy Osherove.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/programming/The%20Art%20of%20Unit%20Testing%2C%20with%20examples%20in%20C_%20(2014%2C%20Manning)%20-%20Roy%20Osherove.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/programming/The%20Art%20of%20Unit%20Testing%2C%20with%20examples%20in%20C_%20(2014%2C%20Manning)%20-%20Roy%20Osherove.pdf"
+    },
+    {
+      "id": "158e2c27-c171-4939-acd1-bb9467fc7136",
+      "title": "Your Code as a Crime Scene  Use Forensic Techniques to Arrest Defects, Bottlenecks, and Bad Design in Your Programs (2015)",
+      "author": "Adam Tornhill copy",
+      "category": "programming",
+      "subcategory": null,
+      "path": "programming/Your Code as a Crime Scene_ Use Forensic Techniques to Arrest Defects, Bottlenecks, and Bad Design in Your Programs (2015) - Adam Tornhill copy.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/programming/Your%20Code%20as%20a%20Crime%20Scene_%20Use%20Forensic%20Techniques%20to%20Arrest%20Defects%2C%20Bottlenecks%2C%20and%20Bad%20Design%20in%20Your%20Programs%20(2015)%20-%20Adam%20Tornhill%20copy.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/programming/Your%20Code%20as%20a%20Crime%20Scene_%20Use%20Forensic%20Techniques%20to%20Arrest%20Defects%2C%20Bottlenecks%2C%20and%20Bad%20Design%20in%20Your%20Programs%20(2015)%20-%20Adam%20Tornhill%20copy.pdf"
+    },
+    {
+      "id": "b03fdc1c-aa9d-439d-8545-cd7d48de3389",
+      "title": "securing-the-api-stronghold",
+      "author": "",
+      "category": "security",
+      "subcategory": null,
+      "path": "security/securing-the-api-stronghold.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/security/securing-the-api-stronghold.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/security/securing-the-api-stronghold.pdf"
+    },
+    {
+      "id": "fb7ffff3-c367-4979-81fa-9c1c040c3e7d",
+      "title": "Web Application Security  Exploitation and Countermeasures for Modern Web Applications-O'Reilly Media (2020)",
+      "author": "Andrew Hoffman",
+      "category": "security",
+      "subcategory": null,
+      "path": "security/Andrew Hoffman - Web Application Security_ Exploitation and Countermeasures for Modern Web Applications-O'Reilly Media (2020).pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/security/Andrew%20Hoffman%20-%20Web%20Application%20Security_%20Exploitation%20and%20Countermeasures%20for%20Modern%20Web%20Applications-O'Reilly%20Media%20(2020).pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/security/Andrew%20Hoffman%20-%20Web%20Application%20Security_%20Exploitation%20and%20Countermeasures%20for%20Modern%20Web%20Applications-O'Reilly%20Media%20(2020).pdf"
+    },
+    {
+      "id": "7245f960-a85a-4f91-83a2-ad32e0609693",
+      "title": "EssentialInsight Summaries - Summary  Never Split the Difference  Negotiating As If Your Life Depended On It - by Chris Voss (2021, EssentialInsight Summaries)",
+      "author": "libgen.li",
+      "category": "Soft Skills",
+      "subcategory": "negotiating",
+      "path": "Soft Skills/negotiating/EssentialInsight Summaries - Summary_ Never Split the Difference_ Negotiating As If Your Life Depended On It - by Chris Voss (2021, EssentialInsight Summaries) - libgen.li.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Soft%20Skills/negotiating/EssentialInsight%20Summaries%20-%20Summary_%20Never%20Split%20the%20Difference_%20Negotiating%20As%20If%20Your%20Life%20Depended%20On%20It%20-%20by%20Chris%20Voss%20(2021%2C%20EssentialInsight%20Summaries)%20-%20libgen.li.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Soft%20Skills/negotiating/EssentialInsight%20Summaries%20-%20Summary_%20Never%20Split%20the%20Difference_%20Negotiating%20As%20If%20Your%20Life%20Depended%20On%20It%20-%20by%20Chris%20Voss%20(2021%2C%20EssentialInsight%20Summaries)%20-%20libgen.li.pdf"
+    },
+    {
+      "id": "f6398a51-5251-4630-a168-22bbddc6367f",
+      "title": "Strengths Finder 2.0",
+      "author": "Rath Tom.",
+      "category": "Soft Skills",
+      "subcategory": null,
+      "path": "Soft Skills/Strengths Finder 2.0 - Rath Tom. .pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Soft%20Skills/Strengths%20Finder%202.0%20-%20Rath%20Tom.%20.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Soft%20Skills/Strengths%20Finder%202.0%20-%20Rath%20Tom.%20.pdf"
+    },
+    {
+      "id": "70cfb011-bbc9-48d2-95ff-08202a2bec23",
+      "title": "StrengthsFinder",
+      "author": "",
+      "category": "Soft Skills",
+      "subcategory": null,
+      "path": "Soft Skills/StrengthsFinder.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Soft%20Skills/StrengthsFinder.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Soft%20Skills/StrengthsFinder.pdf"
+    },
+    {
+      "id": "b32840eb-dd3d-4008-8955-a809c7a91e83",
+      "title": "Voss, Chris - Never Split the Difference  Negotiating as if Your Life Depended on It 1 1 (2016)",
+      "author": "libgen.li",
+      "category": "Soft Skills",
+      "subcategory": "negotiating",
+      "path": "Soft Skills/negotiating/Voss, Chris - Never Split the Difference_ Negotiating as if Your Life Depended on It 1 1 (2016) - libgen.li.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Soft%20Skills/negotiating/Voss%2C%20Chris%20-%20Never%20Split%20the%20Difference_%20Negotiating%20as%20if%20Your%20Life%20Depended%20on%20It%201%201%20(2016)%20-%20libgen.li.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Soft%20Skills/negotiating/Voss%2C%20Chris%20-%20Never%20Split%20the%20Difference_%20Negotiating%20as%20if%20Your%20Life%20Depended%20on%20It%201%201%20(2016)%20-%20libgen.li.pdf"
+    },
+    {
+      "id": "4d1e1974-9205-4cec-acd9-9d8ad83273aa",
+      "title": "A Philosophy of Software Design",
+      "author": "John Ousterhout",
+      "category": "Software Architecture",
+      "subcategory": null,
+      "path": "Software Architecture/A Philosophy of Software Design - John Ousterhout.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Software%20Architecture/A%20Philosophy%20of%20Software%20Design%20-%20John%20Ousterhout.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Software%20Architecture/A%20Philosophy%20of%20Software%20Design%20-%20John%20Ousterhout.pdf"
+    },
+    {
+      "id": "d7782d4b-4500-4ecc-9570-09d5e6ec1691",
+      "title": "Accelerate  The Science of DevOps ( PDFDrive )",
+      "author": "",
+      "category": "Software Architecture",
+      "subcategory": null,
+      "path": "Software Architecture/Accelerate_ The Science of DevOps ( PDFDrive ).pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Software%20Architecture/Accelerate_%20The%20Science%20of%20DevOps%20(%20PDFDrive%20).pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Software%20Architecture/Accelerate_%20The%20Science%20of%20DevOps%20(%20PDFDrive%20).pdf"
+    },
+    {
+      "id": "00b9383f-58c3-4d6a-a401-3c963a58b3d7",
+      "title": "Accelerate - Building and Scaling High Performing Technology Organisations",
+      "author": "Nicole Fergrson",
+      "category": "Software Architecture",
+      "subcategory": null,
+      "path": "Software Architecture/Accelerate - Building and Scaling High Performing Technology Organisations - Nicole Fergrson.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Software%20Architecture/Accelerate%20-%20Building%20and%20Scaling%20High%20Performing%20Technology%20Organisations%20-%20Nicole%20Fergrson.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Software%20Architecture/Accelerate%20-%20Building%20and%20Scaling%20High%20Performing%20Technology%20Organisations%20-%20Nicole%20Fergrson.pdf"
+    },
+    {
+      "id": "7340184b-666a-4840-8427-8001f323794d",
+      "title": "Book - Clean Architecture",
+      "author": "Robert Cecil Martin",
+      "category": "Software Architecture",
+      "subcategory": null,
+      "path": "Software Architecture/Book - Clean Architecture - Robert Cecil Martin.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Software%20Architecture/Book%20-%20Clean%20Architecture%20-%20Robert%20Cecil%20Martin.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Software%20Architecture/Book%20-%20Clean%20Architecture%20-%20Robert%20Cecil%20Martin.pdf"
+    },
+    {
+      "id": "5591e36a-dfc8-42c0-9853-8f643df18e96",
+      "title": "Building Microservices, 2nd Edition",
+      "author": "",
+      "category": "Software Architecture",
+      "subcategory": "microservices",
+      "path": "Software Architecture/microservices/Building Microservices, 2nd Edition.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Software%20Architecture/microservices/Building%20Microservices%2C%202nd%20Edition.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Software%20Architecture/microservices/Building%20Microservices%2C%202nd%20Edition.pdf"
+    },
+    {
+      "id": "1cacdbf2-a64a-4c65-b95c-53c852b80749",
+      "title": "Designing Data Intensive Applications",
+      "author": "",
+      "category": "Software Architecture",
+      "subcategory": null,
+      "path": "Software Architecture/_Designing Data Intensive Applications.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Software%20Architecture/_Designing%20Data%20Intensive%20Applications.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Software%20Architecture/_Designing%20Data%20Intensive%20Applications.pdf"
+    },
+    {
+      "id": "586b2d73-7560-4cf3-9d0a-a50b019f3fa0",
+      "title": "Designing Event Driven Systems",
+      "author": "",
+      "category": "Software Architecture",
+      "subcategory": null,
+      "path": "Software Architecture/Designing_Event_Driven_Systems.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Software%20Architecture/Designing_Event_Driven_Systems.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Software%20Architecture/Designing_Event_Driven_Systems.pdf"
+    },
+    {
+      "id": "486c809b-4250-4ef3-a57c-d073367b068f",
+      "title": "developing-open-cloud-native-microservice",
+      "author": "",
+      "category": "Software Architecture",
+      "subcategory": null,
+      "path": "Software Architecture/developing-open-cloud-native-microservice.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Software%20Architecture/developing-open-cloud-native-microservice.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Software%20Architecture/developing-open-cloud-native-microservice.pdf"
+    },
+    {
+      "id": "ce88fbfe-578b-4a1f-b889-0d9e2a6a9812",
+      "title": "Domain-Driven Design Distilled (2016, Addison-Wesley Professional)",
+      "author": "Vaughn Vernon",
+      "category": "Software Architecture",
+      "subcategory": "DDD",
+      "path": "Software Architecture/DDD/Vaughn Vernon - Domain-Driven Design Distilled (2016, Addison-Wesley Professional).pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Software%20Architecture/DDD/Vaughn%20Vernon%20-%20Domain-Driven%20Design%20Distilled%20(2016%2C%20Addison-Wesley%20Professional).pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Software%20Architecture/DDD/Vaughn%20Vernon%20-%20Domain-Driven%20Design%20Distilled%20(2016%2C%20Addison-Wesley%20Professional).pdf"
+    },
+    {
+      "id": "f879a9e0-d98a-458f-b1bd-12c781242dd4",
+      "title": "DomainDrivenDesignQuicklyOnline",
+      "author": "",
+      "category": "Software Architecture",
+      "subcategory": "DDD",
+      "path": "Software Architecture/DDD/DomainDrivenDesignQuicklyOnline.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Software%20Architecture/DDD/DomainDrivenDesignQuicklyOnline.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Software%20Architecture/DDD/DomainDrivenDesignQuicklyOnline.pdf"
+    },
+    {
+      "id": "a77fc4e0-eb40-4684-8bb6-7107ad883d96",
+      "title": "Enterprise Integration Patterns  Designing, Building, and Deploying Messaging Solutions  -Addison-Wesley Professional (2003)",
+      "author": "",
+      "category": "Software Architecture",
+      "subcategory": null,
+      "path": "Software Architecture/Enterprise Integration Patterns_ Designing, Building, and Deploying Messaging Solutions  -Addison-Wesley Professional (2003).pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Software%20Architecture/Enterprise%20Integration%20Patterns_%20Designing%2C%20Building%2C%20and%20Deploying%20Messaging%20Solutions%20%20-Addison-Wesley%20Professional%20(2003).pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Software%20Architecture/Enterprise%20Integration%20Patterns_%20Designing%2C%20Building%2C%20and%20Deploying%20Messaging%20Solutions%20%20-Addison-Wesley%20Professional%20(2003).pdf"
+    },
+    {
+      "id": "72bcfb80-3825-4b36-85bb-4685d5632f87",
+      "title": "Evans, Eric - Domain-driven design  tackling complexity in the heart of software (2014, Addison-Wesley)",
+      "author": "libgen.li",
+      "category": "Software Architecture",
+      "subcategory": "DDD",
+      "path": "Software Architecture/DDD/Evans, Eric - Domain-driven design_ tackling complexity in the heart of software (2014, Addison-Wesley) - libgen.li.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Software%20Architecture/DDD/Evans%2C%20Eric%20-%20Domain-driven%20design_%20tackling%20complexity%20in%20the%20heart%20of%20software%20(2014%2C%20Addison-Wesley)%20-%20libgen.li.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Software%20Architecture/DDD/Evans%2C%20Eric%20-%20Domain-driven%20design_%20tackling%20complexity%20in%20the%20heart%20of%20software%20(2014%2C%20Addison-Wesley)%20-%20libgen.li.pdf"
+    },
+    {
+      "id": "5f3d41fa-c5a3-40d9-967f-65a9491ad54e",
+      "title": "Fundamentals of Software Architecture",
+      "author": "",
+      "category": "Software Architecture",
+      "subcategory": null,
+      "path": "Software Architecture/Fundamentals of Software Architecture.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Software%20Architecture/Fundamentals%20of%20Software%20Architecture.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Software%20Architecture/Fundamentals%20of%20Software%20Architecture.pdf"
+    },
+    {
+      "id": "879a845c-9748-4d32-bf1a-9c0233fbf964",
+      "title": "Grokking the Advanced System Design Interview (2021)",
+      "author": "",
+      "category": "Software Architecture",
+      "subcategory": null,
+      "path": "Software Architecture/_Grokking the Advanced System Design Interview (2021).pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Software%20Architecture/_Grokking%20the%20Advanced%20System%20Design%20Interview%20(2021).pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Software%20Architecture/_Grokking%20the%20Advanced%20System%20Design%20Interview%20(2021).pdf"
+    },
+    {
+      "id": "77facf97-b4d6-4f32-9227-ef67e05c15c6",
+      "title": "Head First Design Patterns  Building Extensible and Maintainable Object-Oriented Software (2020, O'Reilly Media)",
+      "author": "Eric Freeman, Elisabeth Robson",
+      "category": "Software Architecture",
+      "subcategory": null,
+      "path": "Software Architecture/Eric Freeman, Elisabeth Robson - Head First Design Patterns_ Building Extensible and Maintainable Object-Oriented Software (2020, O'Reilly Media).pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Software%20Architecture/Eric%20Freeman%2C%20Elisabeth%20Robson%20-%20Head%20First%20Design%20Patterns_%20Building%20Extensible%20and%20Maintainable%20Object-Oriented%20Software%20(2020%2C%20O'Reilly%20Media).pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Software%20Architecture/Eric%20Freeman%2C%20Elisabeth%20Robson%20-%20Head%20First%20Design%20Patterns_%20Building%20Extensible%20and%20Maintainable%20Object-Oriented%20Software%20(2020%2C%20O'Reilly%20Media).pdf"
+    },
+    {
+      "id": "899173e6-e3b2-46b3-82ce-da5086992fb8",
+      "title": "Hohpe G. The Software Architect Elevator...2020",
+      "author": "",
+      "category": "Software Architecture",
+      "subcategory": null,
+      "path": "Software Architecture/Hohpe G. The Software Architect Elevator...2020.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Software%20Architecture/Hohpe%20G.%20The%20Software%20Architect%20Elevator...2020.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Software%20Architecture/Hohpe%20G.%20The%20Software%20Architect%20Elevator...2020.pdf"
+    },
+    {
+      "id": "993e6989-c2a5-4c3a-baa7-287f801d0165",
+      "title": "MicroservicePatternLanguage",
+      "author": "",
+      "category": "Software Architecture",
+      "subcategory": "microservices",
+      "path": "Software Architecture/microservices/MicroservicePatternLanguage.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Software%20Architecture/microservices/MicroservicePatternLanguage.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Software%20Architecture/microservices/MicroservicePatternLanguage.pdf"
+    },
+    {
+      "id": "df3572d4-9adf-47fe-854f-6fb16dea7d9b",
+      "title": "Microservices AntiPatterns and Pitfalls (2016, O'Reilly)",
+      "author": "Mark Richards",
+      "category": "Software Architecture",
+      "subcategory": "microservices",
+      "path": "Software Architecture/microservices/Mark Richards - Microservices AntiPatterns and Pitfalls (2016, O'Reilly).pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Software%20Architecture/microservices/Mark%20Richards%20-%20Microservices%20AntiPatterns%20and%20Pitfalls%20(2016%2C%20O'Reilly).pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Software%20Architecture/microservices/Mark%20Richards%20-%20Microservices%20AntiPatterns%20and%20Pitfalls%20(2016%2C%20O'Reilly).pdf"
+    },
+    {
+      "id": "d0561875-b508-4343-9fa4-7c566c933bbc",
+      "title": "Patterns of Enterprise Application Architecture",
+      "author": "",
+      "category": "Software Architecture",
+      "subcategory": null,
+      "path": "Software Architecture/Patterns of Enterprise Application Architecture.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Software%20Architecture/Patterns%20of%20Enterprise%20Application%20Architecture.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Software%20Architecture/Patterns%20of%20Enterprise%20Application%20Architecture.pdf"
+    },
+    {
+      "id": "2d490ca1-84d7-41f0-8294-fa0248785abb",
+      "title": "Pethuru Raj, Anupama Raman, Harihara Subramanian - Architectural Patterns  Uncover essential patterns in the most indispensable realm of enterprise architecture (2017, Packt Publishing",
+      "author": "ebooks Account)",
+      "category": "Software Architecture",
+      "subcategory": null,
+      "path": "Software Architecture/Pethuru Raj, Anupama Raman, Harihara Subramanian - Architectural Patterns_ Uncover essential patterns in the most indispensable realm of enterprise architecture (2017, Packt Publishing - ebooks Account).pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Software%20Architecture/Pethuru%20Raj%2C%20Anupama%20Raman%2C%20Harihara%20Subramanian%20-%20Architectural%20Patterns_%20Uncover%20essential%20patterns%20in%20the%20most%20indispensable%20realm%20of%20enterprise%20architecture%20(2017%2C%20Packt%20Publishing%20-%20ebooks%20Account).pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Software%20Architecture/Pethuru%20Raj%2C%20Anupama%20Raman%2C%20Harihara%20Subramanian%20-%20Architectural%20Patterns_%20Uncover%20essential%20patterns%20in%20the%20most%20indispensable%20realm%20of%20enterprise%20architecture%20(2017%2C%20Packt%20Publishing%20-%20ebooks%20Account).pdf"
+    },
+    {
+      "id": "579d7439-f74c-4961-9775-43b48466e08b",
+      "title": "Software Architecture",
+      "author": "The Hardparts",
+      "category": "Software Architecture",
+      "subcategory": null,
+      "path": "Software Architecture/Software Architecture - The Hardparts.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Software%20Architecture/Software%20Architecture%20-%20The%20Hardparts.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Software%20Architecture/Software%20Architecture%20-%20The%20Hardparts.pdf"
+    },
+    {
+      "id": "930c93e7-1c8d-4a76-a921-826489efd862",
+      "title": "Software Architecture Patterns (2015, O'Reilly)",
+      "author": "Mark Richards",
+      "category": "Software Architecture",
+      "subcategory": null,
+      "path": "Software Architecture/Mark Richards - Software Architecture Patterns (2015, O'Reilly).pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Software%20Architecture/Mark%20Richards%20-%20Software%20Architecture%20Patterns%20(2015%2C%20O'Reilly).pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Software%20Architecture/Mark%20Richards%20-%20Software%20Architecture%20Patterns%20(2015%2C%20O'Reilly).pdf"
+    },
+    {
+      "id": "b10f5a1f-3a05-41ef-bbd4-cd811e38aedd",
+      "title": "Software Architecture The Hard Parts",
+      "author": "Neal Ford, Mark Richards, Pramod Sadalage, Zhamak Dehghani",
+      "category": "Software Architecture",
+      "subcategory": null,
+      "path": "Software Architecture/Software Architecture The Hard Parts - Neal Ford, Mark Richards, Pramod Sadalage, Zhamak Dehghani.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Software%20Architecture/Software%20Architecture%20The%20Hard%20Parts%20-%20Neal%20Ford%2C%20Mark%20Richards%2C%20Pramod%20Sadalage%2C%20Zhamak%20Dehghani.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Software%20Architecture/Software%20Architecture%20The%20Hard%20Parts%20-%20Neal%20Ford%2C%20Mark%20Richards%2C%20Pramod%20Sadalage%2C%20Zhamak%20Dehghani.pdf"
+    },
+    {
+      "id": "c8b4ccac-a00a-4900-a57c-2352f0454cd3",
+      "title": "Web scalability for startup engineers (2015)",
+      "author": "Ejsmont, Artur",
+      "category": "Software Architecture",
+      "subcategory": null,
+      "path": "Software Architecture/Ejsmont, Artur - Web scalability for startup engineers (2015).pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Software%20Architecture/Ejsmont%2C%20Artur%20-%20Web%20scalability%20for%20startup%20engineers%20(2015).pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Software%20Architecture/Ejsmont%2C%20Artur%20-%20Web%20scalability%20for%20startup%20engineers%20(2015).pdf"
+    },
+    {
+      "id": "b897744e-66e3-4806-a7a8-5aa7a000384b",
+      "title": "Design Patterns Elements of Reusable Object-Oriented Software",
+      "author": "",
+      "category": "Software Engineering",
+      "subcategory": null,
+      "path": "Software Engineering/Design Patterns Elements of Reusable Object-Oriented Software.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Software%20Engineering/Design%20Patterns%20Elements%20of%20Reusable%20Object-Oriented%20Software.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Software%20Engineering/Design%20Patterns%20Elements%20of%20Reusable%20Object-Oriented%20Software.pdf"
+    },
+    {
+      "id": "f2272ba0-0184-460e-bc83-3c225cf82da9",
+      "title": "Head First Design Patterns",
+      "author": "",
+      "category": "Software Engineering",
+      "subcategory": null,
+      "path": "Software Engineering/Head First Design Patterns.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Software%20Engineering/Head%20First%20Design%20Patterns.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Software%20Engineering/Head%20First%20Design%20Patterns.pdf"
+    },
+    {
+      "id": "8a04b974-ae98-45e5-a1c9-5b761d589bd4",
+      "title": "kent-beck-test-driven-development-by-example",
+      "author": "",
+      "category": "Software Engineering",
+      "subcategory": null,
+      "path": "Software Engineering/kent-beck-test-driven-development-by-example.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Software%20Engineering/kent-beck-test-driven-development-by-example.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Software%20Engineering/kent-beck-test-driven-development-by-example.pdf"
+    },
+    {
+      "id": "d3e6bf2c-7091-420b-92eb-04cc6642407c",
+      "title": "Martin Fowler - Refactoring",
+      "author": "Improving the Design of Existing Code",
+      "category": "Software Engineering",
+      "subcategory": null,
+      "path": "Software Engineering/Martin Fowler - Refactoring - Improving the Design of Existing Code.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Software%20Engineering/Martin%20Fowler%20-%20Refactoring%20-%20Improving%20the%20Design%20of%20Existing%20Code.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Software%20Engineering/Martin%20Fowler%20-%20Refactoring%20-%20Improving%20the%20Design%20of%20Existing%20Code.pdf"
+    },
+    {
+      "id": "752de727-7846-4dfc-88be-baf8030d408a",
+      "title": "Modern Software Engineering  Doing What Works to Build Better Software Faster (2021, Addison-Wesley Professional)",
+      "author": "David Farley",
+      "category": "Software Engineering",
+      "subcategory": null,
+      "path": "Software Engineering/Modern Software Engineering_ Doing What Works to Build Better Software Faster (2021, Addison-Wesley Professional) - David Farley.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Software%20Engineering/Modern%20Software%20Engineering_%20Doing%20What%20Works%20to%20Build%20Better%20Software%20Faster%20(2021%2C%20Addison-Wesley%20Professional)%20-%20David%20Farley.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Software%20Engineering/Modern%20Software%20Engineering_%20Doing%20What%20Works%20to%20Build%20Better%20Software%20Faster%20(2021%2C%20Addison-Wesley%20Professional)%20-%20David%20Farley.pdf"
+    },
+    {
+      "id": "7247ec71-8f60-4c41-8510-dd6a4a36eab6",
+      "title": "mythical-man-month",
+      "author": "",
+      "category": "Software Engineering",
+      "subcategory": null,
+      "path": "Software Engineering/mythical-man-month.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Software%20Engineering/mythical-man-month.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Software%20Engineering/mythical-man-month.pdf"
+    },
+    {
+      "id": "d6364701-dbf0-47b2-b9bd-aa0123fa8cb5",
+      "title": "Software Engineering at Google  Lessons Learned from Programming Over Time (2020, O'Reilly Media)",
+      "author": "Titus Winters, Tom Manshreck, Hyrum Wright",
+      "category": "Software Engineering",
+      "subcategory": null,
+      "path": "Software Engineering/_Software Engineering at Google_ Lessons Learned from Programming Over Time (2020, O'Reilly Media) - Titus Winters, Tom Manshreck, Hyrum Wright.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Software%20Engineering/_Software%20Engineering%20at%20Google_%20Lessons%20Learned%20from%20Programming%20Over%20Time%20(2020%2C%20O'Reilly%20Media)%20-%20Titus%20Winters%2C%20Tom%20Manshreck%2C%20Hyrum%20Wright.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Software%20Engineering/_Software%20Engineering%20at%20Google_%20Lessons%20Learned%20from%20Programming%20Over%20Time%20(2020%2C%20O'Reilly%20Media)%20-%20Titus%20Winters%2C%20Tom%20Manshreck%2C%20Hyrum%20Wright.pdf"
+    },
+    {
+      "id": "d7f13e2b-a550-4d4a-8d4c-b1a73a3c9d7d",
+      "title": "Why Programs Fail Second Edition A Guide to Systematic Debugging  2009by-Andreas Zeller",
+      "author": "",
+      "category": "Software Engineering",
+      "subcategory": null,
+      "path": "Software Engineering/Why_Programs_Fail_Second_Edition_A_Guide_to_Systematic_Debugging__2009by-Andreas_Zeller.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Software%20Engineering/Why_Programs_Fail_Second_Edition_A_Guide_to_Systematic_Debugging__2009by-Andreas_Zeller.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Software%20Engineering/Why_Programs_Fail_Second_Edition_A_Guide_to_Systematic_Debugging__2009by-Andreas_Zeller.pdf"
+    },
+    {
+      "id": "af2e2163-49ba-4229-b8c1-fac5a3881ca1",
+      "title": "Java Unit Testing with JUnit 5  Test Driven Development with JUnit 5 (2017, Apress)",
+      "author": "Shekhar Gulati,Rahul Sharma",
+      "category": "Software Testing",
+      "subcategory": "unit-test",
+      "path": "Software Testing/unit-test/Java Unit Testing with JUnit 5_ Test Driven Development with JUnit 5 (2017, Apress) - Shekhar Gulati,Rahul Sharma.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Software%20Testing/unit-test/Java%20Unit%20Testing%20with%20JUnit%205_%20Test%20Driven%20Development%20with%20JUnit%205%20(2017%2C%20Apress)%20-%20Shekhar%20Gulati%2CRahul%20Sharma.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Software%20Testing/unit-test/Java%20Unit%20Testing%20with%20JUnit%205_%20Test%20Driven%20Development%20with%20JUnit%205%20(2017%2C%20Apress)%20-%20Shekhar%20Gulati%2CRahul%20Sharma.pdf"
+    },
+    {
+      "id": "bac858c8-83f1-45c2-9b01-42ada2fe60b0",
+      "title": "k6-guideline",
+      "author": "",
+      "category": "Software Testing",
+      "subcategory": "load-testing",
+      "path": "Software Testing/load-testing/k6-guideline.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Software%20Testing/load-testing/k6-guideline.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Software%20Testing/load-testing/k6-guideline.pdf"
+    },
+    {
+      "id": "6b9de0b1-445c-45ba-b4dc-4baa4eae74b2",
+      "title": "Mockito for Spring  learn all you need to know about the Spring Framework and how to unit test your projects with Mockito (2015, Packt Publishing)",
+      "author": "Sujoy Acharya",
+      "category": "Software Testing",
+      "subcategory": null,
+      "path": "Software Testing/Mockito for Spring_ learn all you need to know about the Spring Framework and how to unit test your projects with Mockito (2015, Packt Publishing) - Sujoy Acharya.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Software%20Testing/Mockito%20for%20Spring_%20learn%20all%20you%20need%20to%20know%20about%20the%20Spring%20Framework%20and%20how%20to%20unit%20test%20your%20projects%20with%20Mockito%20(2015%2C%20Packt%20Publishing)%20-%20Sujoy%20Acharya.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Software%20Testing/Mockito%20for%20Spring_%20learn%20all%20you%20need%20to%20know%20about%20the%20Spring%20Framework%20and%20how%20to%20unit%20test%20your%20projects%20with%20Mockito%20(2015%2C%20Packt%20Publishing)%20-%20Sujoy%20Acharya.pdf"
+    },
+    {
+      "id": "d30e5347-e6dc-416e-981d-f1f37d7c30ed",
+      "title": "Mockito for Spring  learn all you need to know about the Spring Framework and how to unit test your projects with Mockito (2015, Packt Publishing)",
+      "author": "Sujoy Acharya",
+      "category": "Software Testing",
+      "subcategory": "unit-test",
+      "path": "Software Testing/unit-test/Mockito for Spring_ learn all you need to know about the Spring Framework and how to unit test your projects with Mockito (2015, Packt Publishing) - Sujoy Acharya.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Software%20Testing/unit-test/Mockito%20for%20Spring_%20learn%20all%20you%20need%20to%20know%20about%20the%20Spring%20Framework%20and%20how%20to%20unit%20test%20your%20projects%20with%20Mockito%20(2015%2C%20Packt%20Publishing)%20-%20Sujoy%20Acharya.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Software%20Testing/unit-test/Mockito%20for%20Spring_%20learn%20all%20you%20need%20to%20know%20about%20the%20Spring%20Framework%20and%20how%20to%20unit%20test%20your%20projects%20with%20Mockito%20(2015%2C%20Packt%20Publishing)%20-%20Sujoy%20Acharya.pdf"
+    },
+    {
+      "id": "0e1f0e40-8ec1-42c1-9922-a8a65e63c92d",
+      "title": "Practical Unit Testing with JUnit and Mockito (2013, kaczanowscy.pl Tomasz Kaczanowski)",
+      "author": "Tomek Kaczanowsk",
+      "category": "Software Testing",
+      "subcategory": "unit-test",
+      "path": "Software Testing/unit-test/Practical Unit Testing with JUnit and Mockito (2013, kaczanowscy.pl Tomasz Kaczanowski) - Tomek Kaczanowsk.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Software%20Testing/unit-test/Practical%20Unit%20Testing%20with%20JUnit%20and%20Mockito%20(2013%2C%20kaczanowscy.pl%20Tomasz%20Kaczanowski)%20-%20Tomek%20Kaczanowsk.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Software%20Testing/unit-test/Practical%20Unit%20Testing%20with%20JUnit%20and%20Mockito%20(2013%2C%20kaczanowscy.pl%20Tomasz%20Kaczanowski)%20-%20Tomek%20Kaczanowsk.pdf"
+    },
+    {
+      "id": "80bb74c5-aa4a-493d-87c7-d092d69e9a62",
+      "title": "The Art of Unit Testing, with examples in C  (2014, Manning)",
+      "author": "Roy Osherove",
+      "category": "Software Testing",
+      "subcategory": "unit-test",
+      "path": "Software Testing/unit-test/The Art of Unit Testing, with examples in C_ (2014, Manning) - Roy Osherove.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Software%20Testing/unit-test/The%20Art%20of%20Unit%20Testing%2C%20with%20examples%20in%20C_%20(2014%2C%20Manning)%20-%20Roy%20Osherove.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Software%20Testing/unit-test/The%20Art%20of%20Unit%20Testing%2C%20with%20examples%20in%20C_%20(2014%2C%20Manning)%20-%20Roy%20Osherove.pdf"
+    },
+    {
+      "id": "8f349185-e4c7-4939-99de-c22a18530bbb",
+      "title": "Unit Testing Principles, Practices, and Patterns (2019, Manning Publications)",
+      "author": "Vladimir Khorikov",
+      "category": "Software Testing",
+      "subcategory": "unit-test",
+      "path": "Software Testing/unit-test/_Unit Testing Principles, Practices, and Patterns (2019, Manning Publications) - Vladimir Khorikov.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/Software%20Testing/unit-test/_Unit%20Testing%20Principles%2C%20Practices%2C%20and%20Patterns%20(2019%2C%20Manning%20Publications)%20-%20Vladimir%20Khorikov.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/Software%20Testing/unit-test/_Unit%20Testing%20Principles%2C%20Practices%2C%20and%20Patterns%20(2019%2C%20Manning%20Publications)%20-%20Vladimir%20Khorikov.pdf"
+    },
+    {
+      "id": "6f1c85d7-5533-4411-b108-dc480c3ba5ff",
+      "title": "Bowey, Angela  Thorpe, Richard",
+      "author": "Payment Systems and Performance Improvement  Participation in Payment System Design (1989)",
+      "category": "System Design",
+      "subcategory": null,
+      "path": "System Design/Payment Systems and Performance Improvement_ Participation in Payment System Design (1989) - Bowey, Angela_ Thorpe, Richard.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/System%20Design/Payment%20Systems%20and%20Performance%20Improvement_%20Participation%20in%20Payment%20System%20Design%20(1989)%20-%20Bowey%2C%20Angela_%20Thorpe%2C%20Richard.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/System%20Design/Payment%20Systems%20and%20Performance%20Improvement_%20Participation%20in%20Payment%20System%20Design%20(1989)%20-%20Bowey%2C%20Angela_%20Thorpe%2C%20Richard.pdf"
+    },
+    {
+      "id": "eb802884-ef1e-433a-af78-1461c283c377",
+      "title": "Designing Distributed Systems  Patterns and Paradigms for Scalable, Reliable Services (2018, O’Reilly Media)",
+      "author": "Brendan Burns",
+      "category": "System Design",
+      "subcategory": null,
+      "path": "System Design/Designing Distributed Systems_ Patterns and Paradigms for Scalable, Reliable Services (2018, O’Reilly Media) - Brendan Burns.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/System%20Design/Designing%20Distributed%20Systems_%20Patterns%20and%20Paradigms%20for%20Scalable%2C%20Reliable%20Services%20(2018%2C%20O%E2%80%99Reilly%20Media)%20-%20Brendan%20Burns.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/System%20Design/Designing%20Distributed%20Systems_%20Patterns%20and%20Paradigms%20for%20Scalable%2C%20Reliable%20Services%20(2018%2C%20O%E2%80%99Reilly%20Media)%20-%20Brendan%20Burns.pdf"
+    },
+    {
+      "id": "23448d76-a84c-4d7f-9cbb-48d54fd0f4e2",
+      "title": "hands-on-restful-api-design-patterns-and-best-practices",
+      "author": "",
+      "category": "System Design",
+      "subcategory": null,
+      "path": "System Design/hands-on-restful-api-design-patterns-and-best-practices.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/System%20Design/hands-on-restful-api-design-patterns-and-best-practices.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/System%20Design/hands-on-restful-api-design-patterns-and-best-practices.pdf"
+    },
+    {
+      "id": "6da18dab-49e8-449a-91ec-9d6e1b40bfe8",
+      "title": "Microservices Patterns  With examples in Java (2018, Manning Publications)",
+      "author": "Chris Richardson",
+      "category": "System Design",
+      "subcategory": null,
+      "path": "System Design/Chris Richardson - Microservices Patterns_ With examples in Java (2018, Manning Publications).pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/System%20Design/Chris%20Richardson%20-%20Microservices%20Patterns_%20With%20examples%20in%20Java%20(2018%2C%20Manning%20Publications).pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/System%20Design/Chris%20Richardson%20-%20Microservices%20Patterns_%20With%20examples%20in%20Java%20(2018%2C%20Manning%20Publications).pdf"
+    },
+    {
+      "id": "59638b6c-2885-471f-a219-2e3c1f47ff79",
+      "title": "rest-api-design-rulebook",
+      "author": "",
+      "category": "System Design",
+      "subcategory": null,
+      "path": "System Design/rest-api-design-rulebook.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/System%20Design/rest-api-design-rulebook.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/System%20Design/rest-api-design-rulebook.pdf"
+    },
+    {
+      "id": "8ad6c093-d735-4d9f-99d0-d8a8e61025e5",
+      "title": "Stowe M. - Undisturbed Rest",
+      "author": "libgen.li",
+      "category": "System Design",
+      "subcategory": null,
+      "path": "System Design/Stowe M. - Undisturbed Rest - libgen.li.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/System%20Design/Stowe%20M.%20-%20Undisturbed%20Rest%20-%20libgen.li.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/System%20Design/Stowe%20M.%20-%20Undisturbed%20Rest%20-%20libgen.li.pdf",
+      "uploaded_by": "saimun.devxhub@gmail.com",
+      "uploaded_by_name": "Abdullah Al Saimun",
+      "createdAt": "2026-08-01T00:45:00.000+06:00"
+    }
+  ]
+}
