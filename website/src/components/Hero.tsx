@@ -19,19 +19,19 @@ export function Hero({
       className="relative overflow-hidden border-b border-ink-border"
     >
       <div className="grain pointer-events-none absolute inset-0 opacity-50" />
-      <div className="relative mx-auto flex min-h-[min(68vh,600px)] max-w-6xl flex-col justify-center px-4 py-14 sm:px-6 sm:py-20">
+      <div className="relative mx-auto flex min-h-[min(68vh,600px)] max-w-6xl flex-col items-center justify-center px-4 py-14 text-center sm:px-6 sm:py-20">
         <div className="animate-fade-up max-w-3xl">
           <h1 className="font-sans text-4xl font-extrabold tracking-tight text-balance text-paper sm:text-5xl md:text-[3.5rem] md:leading-[1.1]">
             Awesome Book Collection
           </h1>
-          <p className="mt-4 max-w-xl font-serif text-lg leading-relaxed text-pretty text-paper-muted sm:text-xl">
-            Curated technical books for builders — search the catalog, preview
-            PDFs, and download what you need.
+          <p className="mx-auto mt-4 max-w-xl font-serif text-lg leading-relaxed text-pretty text-paper-muted sm:text-xl">
+            A big collection of PDF books. <br />Search, preview, and download
+            them for free.
           </p>
         </div>
 
         <div
-          className="animate-fade-up mt-8 max-w-2xl sm:mt-10"
+          className="animate-fade-up mt-8 w-full max-w-2xl sm:mt-10"
           style={{ animationDelay: '120ms' }}
         >
           <form

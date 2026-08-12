@@ -21,7 +21,7 @@ export function CategoryFilter({
 
   return (
     <div className="space-y-5">
-      <div className="flex flex-wrap items-end justify-between gap-3">
+      <div className="flex flex-wrap items-center justify-between gap-3">
         <div>
           <h2 className="text-xl font-bold tracking-tight text-paper sm:text-2xl">
             Catalog
@@ -30,69 +30,84 @@ export function CategoryFilter({
             {resultCount} book{resultCount === 1 ? '' : 's'} shown
           </p>
         </div>
-        {selected ? (
-          <button
-            type="button"
-            onClick={() => onSelectCategory(null)}
-            className="inline-flex h-9 items-center font-ui text-sm font-semibold tracking-normal text-brand-gold hover:underline"
-          >
-            Clear filters
-          </button>
-        ) : (
-          <span className="h-9" aria-hidden />
-        )}
-      </div>
 
-      <div className="grid grid-cols-1 gap-3 sm:grid-cols-2">
-        <label className="flex min-w-0 flex-col gap-1.5">
-          <span className="font-ui text-xs font-semibold uppercase tracking-wider text-paper-muted">
-            Category
-          </span>
-          <select
-            value={selected ?? ''}
-            onChange={(e) =>
-              onSelectCategory(e.target.value ? e.target.value : null)
-            }
-            className="ui-select"
-            aria-label="Filter by category"
-          >
-            <option value="">All categories</option>
-            {categories.map((cat) => (
-              <option key={cat} value={cat}>
-                {cat}
-              </option>
-            ))}
-          </select>
-        </label>
+        <div className="flex flex-wrap items-end justify-end gap-3">
+          <label className="flex min-w-0 flex-col gap-1.5">
+            <span className="font-ui text-xs font-semibold uppercase tracking-wider text-paper-muted">
+              Category
+            </span>
+            <select
+              value={selected ?? ''}
+              onChange={(e) =>
+                onSelectCategory(e.target.value ? e.target.value : null)
+              }
+              className="ui-select"
+              aria-label="Filter by category"
+            >
+              <option value="">All categories</option>
+              {categories.map((cat) => (
+                <option key={cat} value={cat}>
+                  {cat}
+                </option>
+              ))}
+            </select>
+          </label>
 
-        <label
-          className={[
-            'flex min-w-0 flex-col gap-1.5',
-            hasSubs ? 'animate-fade-in' : 'invisible pointer-events-none',
-          ].join(' ')}
-          aria-hidden={!hasSubs}
-        >
-          <span className="font-ui text-xs font-semibold uppercase tracking-wider text-paper-muted">
-            Subcategory
-          </span>
-          <select
-            value={selectedSubcategory ?? ''}
-            onChange={(e) =>
-              onSelectSubcategory(e.target.value ? e.target.value : null)
-            }
-            className="ui-select"
-            aria-label="Filter by subcategory"
-            tabIndex={hasSubs ? 0 : -1}
-            disabled={!hasSubs}
-          >
-            <option value="">All subcategories</option>
-            {subcategories.map((sub) => (
-              <option key={sub} value={sub}>
-                {sub}
-              </option>
-            ))}
-          </select>
-        </label>
+          {hasSubs && (
+            <label className="animate-fade-in flex min-w-0 flex-col gap-1.5">
+              <span className="font-ui text-xs font-semibold uppercase tracking-wider text-paper-muted">
+                Subcategory
+              </span>
+              <select
+                value={selectedSubcategory ?? ''}
+                onChange={(e) =>
+                  onSelectSubcategory(e.target.value ? e.target.value : null)
+                }
+                className="ui-select"
+                aria-label="Filter by subcategory"
+              >
+                <option value="">All subcategories</option>
+                {subcategories.map((sub) => (
+                  <option key={sub} value={sub}>
+                    {sub}
+                  </option>
+                ))}
+              </select>
+            </label>
+          )}
+
+          <div className="flex h-10 items-center">
+            <button
+              type="button"
+              onClick={() => onSelectCategory(null)}
+              aria-label="Clear filters"
+              className={[
+                'group relative inline-flex h-10 w-10 items-center justify-center rounded-lg transition',
+                selected
+                  ? 'text-paper-muted hover:bg-ink-soft hover:text-brand-gold'
+                  : 'invisible pointer-events-none',
+              ].join(' ')}
+            >
+              <svg
+                width="16"
+                height="16"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                strokeWidth="2"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                aria-hidden
+              >
+                <path d="M18 6 6 18" />
+                <path d="m6 6 12 12" />
+              </svg>
+              <span className="pointer-events-none absolute -top-9 left-1/2 -translate-x-1/2 whitespace-nowrap rounded-md border border-ink-border bg-ink-soft px-2 py-1 text-xs font-medium text-paper opacity-0 transition group-hover:opacity-100">
+                Clear filters
+              </span>
+            </button>
+          </div>
+        </div>
       </div>
     </div>
   )

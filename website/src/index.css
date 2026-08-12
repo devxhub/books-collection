@@ -194,6 +194,45 @@
     background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.04'/%3E%3C/svg%3E");
   }
 
+  .rainbow-border {
+    position: relative;
+    border: 2px solid transparent;
+    background-clip: padding-box;
+  }
+
+  .rainbow-border::before {
+    content: '';
+    position: absolute;
+    inset: -2px;
+    z-index: -1;
+    border-radius: inherit;
+    background: linear-gradient(
+      90deg,
+      #8b5cf6,
+      #3b82f6,
+      #22d3ee,
+      #65a30d,
+      #f5c518,
+      #f97316,
+      #ef4444,
+      #8b5cf6
+    );
+    background-size: 300% 100%;
+    animation: rainbow-shift 4s linear infinite;
+  }
+
+  @keyframes rainbow-shift {
+    to {
+      background-position: 300% 0;
+    }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .rainbow-border::before {
+      animation: none;
+    }
+  }
+
   .animate-fade-up {
     animation: fade-up 0.55s ease-out both;
   }

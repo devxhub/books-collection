@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-01T10:53:30.891Z",
-  "total": 166,
+  "generatedAt": "2026-08-12T08:24:10.978Z",
+  "total": 165,
   "categories": [
     "Algorithms",
     "Apache Kafka",
@@ -1153,14 +1153,14 @@
       "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/programming/The%20Art%20of%20Unit%20Testing%2C%20with%20examples%20in%20C_%20(2014%2C%20Manning)%20-%20Roy%20Osherove.pdf"
     },
     {
-      "id": "158e2c27-c171-4939-acd1-bb9467fc7136",
+      "id": "0d1b1986-6394-4726-9436-1197843aefd6",
       "title": "Your Code as a Crime Scene  Use Forensic Techniques to Arrest Defects, Bottlenecks, and Bad Design in Your Programs (2015)",
-      "author": "Adam Tornhill copy",
+      "author": "Adam Tornhill",
       "category": "programming",
       "subcategory": null,
-      "path": "programming/Your Code as a Crime Scene_ Use Forensic Techniques to Arrest Defects, Bottlenecks, and Bad Design in Your Programs (2015) - Adam Tornhill copy.pdf",
-      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/programming/Your%20Code%20as%20a%20Crime%20Scene_%20Use%20Forensic%20Techniques%20to%20Arrest%20Defects%2C%20Bottlenecks%2C%20and%20Bad%20Design%20in%20Your%20Programs%20(2015)%20-%20Adam%20Tornhill%20copy.pdf",
-      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/programming/Your%20Code%20as%20a%20Crime%20Scene_%20Use%20Forensic%20Techniques%20to%20Arrest%20Defects%2C%20Bottlenecks%2C%20and%20Bad%20Design%20in%20Your%20Programs%20(2015)%20-%20Adam%20Tornhill%20copy.pdf"
+      "path": "programming/Your Code as a Crime Scene_ Use Forensic Techniques to Arrest Defects, Bottlenecks, and Bad Design in Your Programs (2015) - Adam Tornhill.pdf",
+      "url": "https://raw.githubusercontent.com/devxhub/awesome-book-collection/main/programming/Your%20Code%20as%20a%20Crime%20Scene_%20Use%20Forensic%20Techniques%20to%20Arrest%20Defects%2C%20Bottlenecks%2C%20and%20Bad%20Design%20in%20Your%20Programs%20(2015)%20-%20Adam%20Tornhill.pdf",
+      "githubUrl": "https://github.com/devxhub/awesome-book-collection/blob/main/programming/Your%20Code%20as%20a%20Crime%20Scene_%20Use%20Forensic%20Techniques%20to%20Arrest%20Defects%2C%20Bottlenecks%2C%20and%20Bad%20Design%20in%20Your%20Programs%20(2015)%20-%20Adam%20Tornhill.pdf"
     },
     {
       "id": "b03fdc1c-aa9d-439d-8545-cd7d48de3389",
